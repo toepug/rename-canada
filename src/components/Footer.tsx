@@ -33,7 +33,7 @@ export function Footer() {
       <div className="relative overflow-hidden bg-ndrs-navy px-4 py-10 text-white md:px-8">
         <CrestWatermark
           decorative
-          className="pointer-events-none absolute -right-10 -bottom-16 h-72 w-72 text-white opacity-[0.06] md:h-96 md:w-96"
+          className="pointer-events-none absolute -right-10 -bottom-16 h-72 w-72 opacity-[0.06] md:h-96 md:w-96"
         />
         <div className="relative mx-auto grid max-w-6xl grid-cols-2 gap-8 md:grid-cols-3">
           {govLinks.map((col) => (

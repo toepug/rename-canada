@@ -23,7 +23,7 @@ The design was built from the outset around official-marks and impersonation ris
 - No Parliament silhouette (the real Canada.ca footer watermark is replaced with a silhouette of the invented crest)
 - No real ministry, department, or agency names anywhere; the invented ministry name appears in every position a real one would occupy
 - No gc.ca-style URL structures; the domain is renamecanada.ca, registered personally
-- The crest is an original invented design intended to rhyme with heraldic government marks without copying any real mark [crest files included in package]
+- The crest (a maple leaf mid-dissolution into pixels) is an original composition, not copied from any real government mark. Note for counsel: it reads closer to the flag's eleven-point leaf silhouette than earlier drafts did — still clearly distinct (5 smooth rounded points vs. 11 sharp angular ones; continuous curves vs. straight-line facets) but the margin is narrower than the design was originally built for, and this item specifically should not be self-certified [crest files and comparison image included in package]
 
 ## 3. What the site deliberately borrows
 
@@ -61,7 +61,7 @@ Layered so the fiction is discoverable on inspection by any visitor:
 
 ## 7. Questions for counsel
 
-1. Official-marks proximity: does the crest and overall design maintain adequate distance from s. 9 marks and from anything that could constitute government impersonation?
+1. Official-marks proximity: does the crest and overall design maintain adequate distance from s. 9 marks and from anything that could constitute government impersonation? This is the item to look at most closely — see the note in §2 and the enclosed comparison.png.
 2. Disclaimer adequacy: is the disclaimer's wording and placement (footer link on every page) sufficient, or should it be more prominent?
 3. Defamation exposure: is the fictional-entity framing of the consultant reports adequate? Does "Meridian Narrative Partners" require more distance from similarly named real firms?
 4. Any concerns with the domain name renamecanada.ca itself?

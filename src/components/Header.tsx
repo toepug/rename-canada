@@ -7,7 +7,7 @@ export function Header() {
       <div className="bg-white px-4 py-3 md:px-8">
         <div className="mx-auto flex max-w-6xl items-center justify-between gap-4">
           <Link href="/" className="flex items-center gap-3">
-            <CrestSignature className="h-10 w-10 shrink-0 text-ndrs-navy" />
+            <CrestSignature className="h-10 w-auto shrink-0" />
             <span className="font-heading text-sm font-bold leading-tight text-foreground md:text-base">
               National Designation Renewal Secretariat
               <br />
