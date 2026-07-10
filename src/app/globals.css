@@ -35,12 +35,18 @@ h6 {
   font-family: var(--font-heading), Arial, Helvetica, sans-serif;
 }
 
-a {
-  color: var(--ndrs-link);
-}
+/* Layered (not global) so Tailwind utility classes like text-white can
+   override this on chrome links (header/footer nav) -- unlayered CSS
+   beats layered CSS regardless of specificity, which is what let this
+   quietly override "text-white" on the footer nav links before. */
+@layer base {
+  a {
+    color: var(--ndrs-link);
+  }
 
-a:visited {
-  color: purple;
+  a:visited {
+    color: purple;
+  }
 }
 
 .crest-icon svg {

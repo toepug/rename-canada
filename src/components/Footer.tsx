@@ -44,7 +44,10 @@ export function Footer() {
               <ul className="space-y-2 text-sm">
                 {col.links.map((link) => (
                   <li key={link.label}>
-                    <Link href={link.href} className="opacity-90 underline">
+                    <Link
+                      href={link.href}
+                      className="text-white opacity-90 underline visited:text-white"
+                    >
                       {link.label}
                     </Link>
                   </li>
