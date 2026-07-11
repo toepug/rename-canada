@@ -5,8 +5,8 @@ deliverable: "PN-D-007"
 author: "Meridian Narrative Partners"
 project: "Project Northstar: A National Renaming Journey"
 commissionedBy: "National Designation Renewal Secretariat"
-status: FINAL (Revision 4)
-dateModified: 2026-05-11
+status: FINAL (Revision 5)
+dateModified: 2026-07-11
 ---
 
 <!-- Breadcrumb: NDRS.ca > Programs > Canada Name Transition Pilot Program > Reports & Publications > Legacy Risk Register -->
@@ -84,7 +84,7 @@ Meridian assesses this as the audit's most significant finding: **the national n
 
 ## 3. Selected asset deep-dives
 
-*Four representative Tier One assets, presented to illustrate the exposure profile. Full register available in the data room.*
+*Five representative Tier One assets, presented to illustrate the exposure profile. Full register available in the data room.*
 
 ### 3.1 Asset #0214 — The Welland Canal
 
@@ -101,6 +101,10 @@ Toronto, 1921–22. Our analysts attempted the standard reframing protocols and 
 ### 3.4 Asset #1877 — Winnie
 
 A black bear cub purchased at a rail stop in White River, Ontario, in 1914 by Lieutenant Harry Colebourn, a veterinarian en route to war, and named for his home city of Winnipeg. Left in the care of the London Zoo when Colebourn shipped to France, the bear became the favourite of a boy named Christopher Robin Milne, whose father wrote books. The asset thus exports Canadian heritage exposure *globally*, embedded in the childhood of every market we tested. The scan team requests it be noted that they were only doing their jobs. **Classification: Tier One (Concerning).**
+
+### 3.5 Asset #1959 — The Avro Arrow (CF-105)
+
+A supersonic interceptor aircraft developed at Malton, Ontario, and cancelled by government order on 20 February 1959, with all airframes, tooling, and technical drawings disposed of within months. Our analysts flag this asset as methodologically unique: it is the only Tier One asset in the current register that has, by our instruments, already completed full sunset — achieved unassisted, decades ahead of the Program's own projected timeline, and at zero cost to the Secretariat. Emotional Attachment Index™ remains elevated despite — our behavioural team suggests *because of* — the sixty-seven-year absence of the underlying asset. **Classification: Tier One (Concerning) — Precedent.**
 
 ## 4. The emotional attachment problem
 
@@ -144,4 +148,4 @@ It remains our privilege to serve the Secretariat on this journey.
 *Meridian Narrative Partners · Narrative Risk Practice · "Every story is a decision."*
 *This deliverable was prepared exclusively for the National Designation Renewal Secretariat. Fees rendered under Work Order 7: available upon request to those who have not asked.*
 
-**Date modified:** 2026-05-11
+**Date modified:** 2026-07-11
