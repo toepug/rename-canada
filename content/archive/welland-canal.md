@@ -10,7 +10,7 @@ era: 1829–present
 reviewCycle: Quarterly (Phase 0)
 sunsetTarget: "TBD — asset in continuous operation"
 consultationStatus: COMPLETE
-dateModified: 2026-04-24
+dateModified: 2026-07-12
 ---
 
 <!-- Eyebrow: Legacy Deprecation Archive -->
@@ -95,6 +95,7 @@ The designation fails the Program's core criterion (no association with any hist
 - [Asset File 0001: "Canada"](/archive/canada) — designation-persistence precedent, s. 2.2
 - Asset File 0038: The Last Spike *(file pending)*
 - Asset File 0009: The Bluenose *(file pending)*
+- [Asset File 1832: The Rideau Canal](/archive/rideau-canal) — a second Tier One engineered waterway, with a substantially higher construction toll
 
 ---
 
@@ -105,12 +106,12 @@ The designation fails the Program's core criterion (no association with any hist
 
 | Date | Revision |
 |---|---|
+| 2026-07-12 | Cross-reference to Asset File 1832 (Rideau Canal) added, s. 4.0 |
 | 2026-04-24 | Asset placed in deferred queue |
 | 2026-03-06 | Section 3.2 entanglement finding recorded |
-| 2026-01-29 | Asset file opened |
 
 ---
 
 *Did you find what you were looking for?* **Yes / No**
 
-**Date modified:** 2026-04-24
+**Date modified:** 2026-07-12

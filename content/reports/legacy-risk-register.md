@@ -5,7 +5,7 @@ deliverable: "PN-D-007"
 author: "Meridian Narrative Partners"
 project: "Project Northstar: A National Renaming Journey"
 commissionedBy: "National Designation Renewal Secretariat"
-status: FINAL (Revision 10)
+status: FINAL (Revision 11)
 dateModified: 2026-07-12
 ---
 
@@ -15,7 +15,7 @@ dateModified: 2026-07-12
 # Legacy Risk Register: National Heritage Exposure Audit
 
 **Project Northstar: A National Renaming Journey**
-Deliverable PN-D-007 · Final (Revision 10) · Prepared for the National Designation Renewal Secretariat
+Deliverable PN-D-007 · Final (Revision 11) · Prepared for the National Designation Renewal Secretariat
 
 *This document contains proprietary methodologies of Meridian Narrative Partners, including the Heritage Density Scan™ and the Emotional Attachment Index™. Deliverable warranty: 18 months from date of acceptance. Reproduction of this document constitutes acceptance.*
 
@@ -84,7 +84,7 @@ Meridian assesses this as the audit's most significant finding: **the national n
 
 ## 3. Selected asset deep-dives
 
-*Ten representative Tier One assets, presented to illustrate the exposure profile. Full register available in the data room.*
+*Eleven representative Tier One assets, presented to illustrate the exposure profile. Full register available in the data room.*
 
 ### 3.1 Asset #0214 — The Welland Canal
 
@@ -125,6 +125,10 @@ A universal exposition staged on two purpose-built islands as the centrepiece of
 ### 3.10 Asset #1898 — The Klondike Gold Rush
 
 A two-year migration of an estimated 100,000 people toward a single Yukon creek, of whom roughly 30,000 completed the journey. Our analysts flag this asset for its unusual jurisdictional profile: its principal surviving infrastructure has, since 1998, been co-administered by Parks Canada and the United States National Park Service under a single international designation, placing any remediation action outside the reach of a purely domestic program. The underlying event is additionally self-resolved, having ended on its own terms in 1899 when a competing discovery drew the remaining population elsewhere. **Classification: Tier One (Concerning) — Binational.**
+
+### 3.11 Asset #1832 — The Rideau Canal
+
+A 202-kilometre military supply canal, completed 1832, linking Ottawa to Kingston through forty-seven locks. Our analysts flag this asset as carrying the register's most significant international-convention exposure: since 2007 it has held UNESCO World Heritage status, a designation this engagement's authority does not extend to reversing. Attachment is compounded seasonally, when a stretch of the asset through the national capital is maintained as a public ice rink and draws sustained media coverage each winter. Fact Density: severe. **Classification: Tier One (Concerning) — Treaty-bound.**
 
 ## 4. The emotional attachment problem
 
