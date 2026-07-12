@@ -5,8 +5,8 @@ deliverable: "PN-D-007"
 author: "Meridian Narrative Partners"
 project: "Project Northstar: A National Renaming Journey"
 commissionedBy: "National Designation Renewal Secretariat"
-status: FINAL (Revision 5)
-dateModified: 2026-07-11
+status: FINAL (Revision 6)
+dateModified: 2026-07-12
 ---
 
 <!-- Breadcrumb: NDRS-SRDN.ca > Programs > Canada Name Transition Pilot Program > Reports & Publications > Legacy Risk Register -->
@@ -15,7 +15,7 @@ dateModified: 2026-07-11
 # Legacy Risk Register: National Heritage Exposure Audit
 
 **Project Northstar: A National Renaming Journey**
-Deliverable PN-D-007 · Final (Revision 4) · Prepared for the National Designation Renewal Secretariat
+Deliverable PN-D-007 · Final (Revision 6) · Prepared for the National Designation Renewal Secretariat
 
 *This document contains proprietary methodologies of Meridian Narrative Partners, including the Heritage Density Scan™ and the Emotional Attachment Index™. Deliverable warranty: 18 months from date of acceptance. Reproduction of this document constitutes acceptance.*
 
@@ -84,7 +84,7 @@ Meridian assesses this as the audit's most significant finding: **the national n
 
 ## 3. Selected asset deep-dives
 
-*Five representative Tier One assets, presented to illustrate the exposure profile. Full register available in the data room.*
+*Six representative Tier One assets, presented to illustrate the exposure profile. Full register available in the data room.*
 
 ### 3.1 Asset #0214 — The Welland Canal
 
@@ -105,6 +105,10 @@ A black bear cub purchased at a rail stop in White River, Ontario, in 1914 by Li
 ### 3.5 Asset #1959 — The Avro Arrow (CF-105)
 
 A supersonic interceptor aircraft developed at Malton, Ontario, and cancelled by government order on 20 February 1959, with all airframes, tooling, and technical drawings disposed of within months. Our analysts flag this asset as methodologically unique: it is the only Tier One asset in the current register that has, by our instruments, already completed full sunset — achieved unassisted, decades ahead of the Program's own projected timeline, and at zero cost to the Secretariat. Emotional Attachment Index™ remains elevated despite — our behavioural team suggests *because of* — the sixty-seven-year absence of the underlying asset. **Classification: Tier One (Concerning) — Precedent.**
+
+### 3.6 Asset #1892 — The Stanley Cup
+
+A sterling silver trophy donated in 1892 by a sitting Governor General and awarded annually since 1893 to the champion of organized ice hockey. Our analysts flag this asset as presenting a novel risk category: it is not owned by any team, league, or government, but by an independent perpetual trust whose terms our legal review was unable to locate a mechanism to amend. Fact Density is compounded by an engraving practice unique among major trophies — the name of every winning player is inscribed permanently — meaning the asset's historical exposure is, by design, still accumulating at the rate of one championship per year. **Classification: Tier One (Concerning) — Ownership unresolved.**
 
 ## 4. The emotional attachment problem
 
@@ -148,4 +152,4 @@ It remains our privilege to serve the Secretariat on this journey.
 *Meridian Narrative Partners · Narrative Risk Practice · "Every story is a decision."*
 *This deliverable was prepared exclusively for the National Designation Renewal Secretariat. Fees rendered under Work Order 7: available upon request to those who have not asked.*
 
-**Date modified:** 2026-07-11
+**Date modified:** 2026-07-12
