@@ -93,7 +93,7 @@ The designation fails the Program's core criterion (no association with any hist
 
 - Meridian Narrative Partners — *Legacy Risk Register*, s. 3.1 ([Reports](/reports))
 - [Asset File 0001: "Canada"](/archive/canada) — designation-persistence precedent, s. 2.2
-- Asset File 0038: The Last Spike *(file pending)*
+- [Asset File 0038: The Last Spike](/archive/last-spike) — designation-persistence precedent, cited by name in the Register's own s. 2.2 interconnection finding
 - Asset File 0009: The Bluenose *(file pending)*
 - [Asset File 1832: The Rideau Canal](/archive/rideau-canal) — a second Tier One engineered waterway, with a substantially higher construction toll
 
@@ -106,9 +106,9 @@ The designation fails the Program's core criterion (no association with any hist
 
 | Date | Revision |
 |---|---|
+| 2026-07-12 | Cross-reference to Asset File 0038 (Last Spike) resolved from pending to live, s. 4.0 |
 | 2026-07-12 | Cross-reference to Asset File 1832 (Rideau Canal) added, s. 4.0 |
 | 2026-04-24 | Asset placed in deferred queue |
-| 2026-03-06 | Section 3.2 entanglement finding recorded |
 
 ---
 

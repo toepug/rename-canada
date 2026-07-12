@@ -5,7 +5,7 @@ deliverable: "PN-D-007"
 author: "Meridian Narrative Partners"
 project: "Project Northstar: A National Renaming Journey"
 commissionedBy: "National Designation Renewal Secretariat"
-status: FINAL (Revision 11)
+status: FINAL (Revision 12)
 dateModified: 2026-07-12
 ---
 
@@ -15,7 +15,7 @@ dateModified: 2026-07-12
 # Legacy Risk Register: National Heritage Exposure Audit
 
 **Project Northstar: A National Renaming Journey**
-Deliverable PN-D-007 · Final (Revision 11) · Prepared for the National Designation Renewal Secretariat
+Deliverable PN-D-007 · Final (Revision 12) · Prepared for the National Designation Renewal Secretariat
 
 *This document contains proprietary methodologies of Meridian Narrative Partners, including the Heritage Density Scan™ and the Emotional Attachment Index™. Deliverable warranty: 18 months from date of acceptance. Reproduction of this document constitutes acceptance.*
 
@@ -78,13 +78,13 @@ The figure of 2,344 heritage assets reflects the scan boundary agreed in Work Or
 
 ### 2.2 The interconnection problem
 
-Our initial engagement model assumed heritage assets could be sunset individually. The scan disproved this. Assets reference one another: the railway implies the Last Spike, the Spike implies the mountains, the mountains appear in the songs, the songs are taught in the schools, and the schools are named after people, all of whom did things. Severing any single node was found to increase attention to adjacent nodes — our analysts termed this **the streisand adjacency** — meaning deprecation activity itself generates heritage engagement.
+Our initial engagement model assumed heritage assets could be sunset individually. The scan disproved this. Assets reference one another: the railway implies [the Last Spike](/archive/last-spike), the Spike implies the mountains, the mountains appear in the songs, the songs are taught in the schools, and the schools are named after people, all of whom did things. Severing any single node was found to increase attention to adjacent nodes — our analysts termed this **the streisand adjacency** — meaning deprecation activity itself generates heritage engagement.
 
 Meridian assesses this as the audit's most significant finding: **the national narrative is not a list. It is a weave.** We flag this as a substantial future-phase opportunity.
 
 ## 3. Selected asset deep-dives
 
-*Eleven representative Tier One assets, presented to illustrate the exposure profile. Full register available in the data room.*
+*Twelve representative Tier One assets, presented to illustrate the exposure profile. Full register available in the data room.*
 
 ### 3.1 Asset #0214 — The Welland Canal
 
@@ -129,6 +129,10 @@ A two-year migration of an estimated 100,000 people toward a single Yukon creek,
 ### 3.11 Asset #1832 — The Rideau Canal
 
 A 202-kilometre military supply canal, completed 1832, linking Ottawa to Kingston through forty-seven locks. Our analysts flag this asset as carrying the register's most significant international-convention exposure: since 2007 it has held UNESCO World Heritage status, a designation this engagement's authority does not extend to reversing. Attachment is compounded seasonally, when a stretch of the asset through the national capital is maintained as a public ice rink and draws sustained media coverage each winter. Fact Density: severe. **Classification: Tier One (Concerning) — Treaty-bound.**
+
+### 3.12 Asset #0038 — The Last Spike
+
+A ceremonial event, 7 November 1885, marking completion of the transcontinental railway first cited in this Register's own interconnection finding (s. 2.2). Our analysts report that standard reframing protocols could not be applied to the labour history underlying this designation; the material resists the register's ordinary instruments, and a distinct, continuing federal redress commitment further constrains any recommendation this practice is positioned to make. Meridian's professional recommendation is that this file be assessed by the Secretariat directly, without a Narrative Risk Practice deliverable attached. **Classification: Tier One (Concerning) — Redress-constrained.**
 
 ## 4. The emotional attachment problem
 
