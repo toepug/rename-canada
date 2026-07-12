@@ -5,7 +5,7 @@ deliverable: "PN-D-007"
 author: "Meridian Narrative Partners"
 project: "Project Northstar: A National Renaming Journey"
 commissionedBy: "National Designation Renewal Secretariat"
-status: FINAL (Revision 9)
+status: FINAL (Revision 10)
 dateModified: 2026-07-12
 ---
 
@@ -15,7 +15,7 @@ dateModified: 2026-07-12
 # Legacy Risk Register: National Heritage Exposure Audit
 
 **Project Northstar: A National Renaming Journey**
-Deliverable PN-D-007 · Final (Revision 9) · Prepared for the National Designation Renewal Secretariat
+Deliverable PN-D-007 · Final (Revision 10) · Prepared for the National Designation Renewal Secretariat
 
 *This document contains proprietary methodologies of Meridian Narrative Partners, including the Heritage Density Scan™ and the Emotional Attachment Index™. Deliverable warranty: 18 months from date of acceptance. Reproduction of this document constitutes acceptance.*
 
@@ -84,7 +84,7 @@ Meridian assesses this as the audit's most significant finding: **the national n
 
 ## 3. Selected asset deep-dives
 
-*Nine representative Tier One assets, presented to illustrate the exposure profile. Full register available in the data room.*
+*Ten representative Tier One assets, presented to illustrate the exposure profile. Full register available in the data room.*
 
 ### 3.1 Asset #0214 — The Welland Canal
 
@@ -121,6 +121,10 @@ The site of the first confirmed transatlantic wireless reception, 12 December 19
 ### 3.9 Asset #1967 — Expo 67
 
 A universal exposition staged on two purpose-built islands as the centrepiece of the 1967 centennial, drawing more visitors over six months than the country's population at the time. Our analysts flag this asset as the register's most administratively fragmented: its three surviving components — a residential building, an environmental museum, and a municipal park — now report to three unrelated authorities, none of which is party to this engagement. Fact Density is compounded by a direct genealogical link to Asset #0002-P (the 1867 Confederation this centennial commemorated). **Classification: Tier One (Concerning) — Fragmented custody.**
+
+### 3.10 Asset #1898 — The Klondike Gold Rush
+
+A two-year migration of an estimated 100,000 people toward a single Yukon creek, of whom roughly 30,000 completed the journey. Our analysts flag this asset for its unusual jurisdictional profile: its principal surviving infrastructure has, since 1998, been co-administered by Parks Canada and the United States National Park Service under a single international designation, placing any remediation action outside the reach of a purely domestic program. The underlying event is additionally self-resolved, having ended on its own terms in 1899 when a competing discovery drew the remaining population elsewhere. **Classification: Tier One (Concerning) — Binational.**
 
 ## 4. The emotional attachment problem
 
