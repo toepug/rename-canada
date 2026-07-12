@@ -5,7 +5,7 @@ deliverable: "PN-D-007"
 author: "Meridian Narrative Partners"
 project: "Project Northstar: A National Renaming Journey"
 commissionedBy: "National Designation Renewal Secretariat"
-status: FINAL (Revision 13)
+status: FINAL (Revision 14)
 dateModified: 2026-07-12
 ---
 
@@ -15,7 +15,7 @@ dateModified: 2026-07-12
 # Legacy Risk Register: National Heritage Exposure Audit
 
 **Project Northstar: A National Renaming Journey**
-Deliverable PN-D-007 · Final (Revision 13) · Prepared for the National Designation Renewal Secretariat
+Deliverable PN-D-007 · Final (Revision 14) · Prepared for the National Designation Renewal Secretariat
 
 *This document contains proprietary methodologies of Meridian Narrative Partners, including the Heritage Density Scan™ and the Emotional Attachment Index™. Deliverable warranty: 18 months from date of acceptance. Reproduction of this document constitutes acceptance.*
 
@@ -137,6 +137,10 @@ A ceremonial event, 7 November 1885, marking completion of the transcontinental 
 ### 3.13 Asset #1845 — The Franklin Expedition
 
 A British Arctic expedition lost in 1845, its wrecks located in 2014 and 2016 substantially through Inuit oral history sustained across generations. Our analysts report that standard reframing protocols could not be applied to this file; the underlying material resists the register's ordinary instruments, and a 2023 Inuit-led governance agreement further constrains any recommendation this practice is positioned to make. Meridian's professional recommendation is that this file be assessed by the Secretariat directly, without a Narrative Risk Practice deliverable attached. **Classification: Tier One (Concerning) — Governance-constrained.**
+
+### 3.14 Asset #1917 — Vimy Ridge
+
+This file has not been assessed. Our practice's ordinary instruments do not apply to it, and none will be substituted. We recommend no further engagement.
 
 ## 4. The emotional attachment problem
 
