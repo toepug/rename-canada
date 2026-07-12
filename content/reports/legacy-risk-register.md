@@ -5,7 +5,7 @@ deliverable: "PN-D-007"
 author: "Meridian Narrative Partners"
 project: "Project Northstar: A National Renaming Journey"
 commissionedBy: "National Designation Renewal Secretariat"
-status: FINAL (Revision 12)
+status: FINAL (Revision 13)
 dateModified: 2026-07-12
 ---
 
@@ -15,7 +15,7 @@ dateModified: 2026-07-12
 # Legacy Risk Register: National Heritage Exposure Audit
 
 **Project Northstar: A National Renaming Journey**
-Deliverable PN-D-007 · Final (Revision 12) · Prepared for the National Designation Renewal Secretariat
+Deliverable PN-D-007 · Final (Revision 13) · Prepared for the National Designation Renewal Secretariat
 
 *This document contains proprietary methodologies of Meridian Narrative Partners, including the Heritage Density Scan™ and the Emotional Attachment Index™. Deliverable warranty: 18 months from date of acceptance. Reproduction of this document constitutes acceptance.*
 
@@ -84,7 +84,7 @@ Meridian assesses this as the audit's most significant finding: **the national n
 
 ## 3. Selected asset deep-dives
 
-*Twelve representative Tier One assets, presented to illustrate the exposure profile. Full register available in the data room.*
+*Thirteen representative Tier One assets, presented to illustrate the exposure profile. Full register available in the data room.*
 
 ### 3.1 Asset #0214 — The Welland Canal
 
@@ -133,6 +133,10 @@ A 202-kilometre military supply canal, completed 1832, linking Ottawa to Kingsto
 ### 3.12 Asset #0038 — The Last Spike
 
 A ceremonial event, 7 November 1885, marking completion of the transcontinental railway first cited in this Register's own interconnection finding (s. 2.2). Our analysts report that standard reframing protocols could not be applied to the labour history underlying this designation; the material resists the register's ordinary instruments, and a distinct, continuing federal redress commitment further constrains any recommendation this practice is positioned to make. Meridian's professional recommendation is that this file be assessed by the Secretariat directly, without a Narrative Risk Practice deliverable attached. **Classification: Tier One (Concerning) — Redress-constrained.**
+
+### 3.13 Asset #1845 — The Franklin Expedition
+
+A British Arctic expedition lost in 1845, its wrecks located in 2014 and 2016 substantially through Inuit oral history sustained across generations. Our analysts report that standard reframing protocols could not be applied to this file; the underlying material resists the register's ordinary instruments, and a 2023 Inuit-led governance agreement further constrains any recommendation this practice is positioned to make. Meridian's professional recommendation is that this file be assessed by the Secretariat directly, without a Narrative Risk Practice deliverable attached. **Classification: Tier One (Concerning) — Governance-constrained.**
 
 ## 4. The emotional attachment problem
 
