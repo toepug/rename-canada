@@ -5,7 +5,7 @@ deliverable: "PN-D-007"
 author: "Meridian Narrative Partners"
 project: "Project Northstar: A National Renaming Journey"
 commissionedBy: "National Designation Renewal Secretariat"
-status: FINAL (Revision 6)
+status: FINAL (Revision 7)
 dateModified: 2026-07-12
 ---
 
@@ -15,7 +15,7 @@ dateModified: 2026-07-12
 # Legacy Risk Register: National Heritage Exposure Audit
 
 **Project Northstar: A National Renaming Journey**
-Deliverable PN-D-007 · Final (Revision 6) · Prepared for the National Designation Renewal Secretariat
+Deliverable PN-D-007 · Final (Revision 7) · Prepared for the National Designation Renewal Secretariat
 
 *This document contains proprietary methodologies of Meridian Narrative Partners, including the Heritage Density Scan™ and the Emotional Attachment Index™. Deliverable warranty: 18 months from date of acceptance. Reproduction of this document constitutes acceptance.*
 
@@ -84,7 +84,7 @@ Meridian assesses this as the audit's most significant finding: **the national n
 
 ## 3. Selected asset deep-dives
 
-*Six representative Tier One assets, presented to illustrate the exposure profile. Full register available in the data room.*
+*Seven representative Tier One assets, presented to illustrate the exposure profile. Full register available in the data room.*
 
 ### 3.1 Asset #0214 — The Welland Canal
 
@@ -109,6 +109,10 @@ A supersonic interceptor aircraft developed at Malton, Ontario, and cancelled by
 ### 3.6 Asset #1892 — The Stanley Cup
 
 A sterling silver trophy donated in 1892 by a sitting Governor General and awarded annually since 1893 to the champion of organized ice hockey. Our analysts flag this asset as presenting a novel risk category: it is not owned by any team, league, or government, but by an independent perpetual trust whose terms our legal review was unable to locate a mechanism to amend. Fact Density is compounded by an engraving practice unique among major trophies — the name of every winning player is inscribed permanently — meaning the asset's historical exposure is, by design, still accumulating at the rate of one championship per year. **Classification: Tier One (Concerning) — Ownership unresolved.**
+
+### 3.7 Asset #1908 — Anne of Green Gables
+
+A fictional orphan introduced in a 1908 novel, associated with a real Prince Edward Island farmhouse now administered as a federal historic site. Our analysts flag this asset as the register's first confirmed instance of a Tier One classification assigned to a subject with no underlying historical occurrence — Fact Density remains severe despite this, driven entirely by the asset's downstream effects (tourism volume, bilateral cultural exchange with Japan, one Guinness World Record). Ownership of the character is further split between a public-domain literary text and a perpetually renewing set of official marks, a custodial structure our legal review was unable to reconcile with a single point of contact. **Classification: Tier One (Concerning) — Fictional; jurisdiction split.**
 
 ## 4. The emotional attachment problem
 
