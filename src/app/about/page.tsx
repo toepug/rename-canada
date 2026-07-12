@@ -16,7 +16,7 @@ export default function AboutPage() {
     <>
       <Header />
       <Breadcrumb
-        trail={[{ label: "NDRS.ca", href: "/" }, { label: "About" }]}
+        trail={[{ label: "NDRS-SRDN.ca", href: "/" }, { label: "About" }]}
       />
       <main className="relative flex-1">
         <CrestSeal

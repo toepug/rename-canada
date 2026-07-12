@@ -26,7 +26,7 @@ export default async function CandidatePage({
       <Header />
       <Breadcrumb
         trail={[
-          { label: "NDRS.ca", href: "/" },
+          { label: "NDRS-SRDN.ca", href: "/" },
           { label: "Candidate Designations", href: "/candidates" },
           { label: entry.title },
         ]}

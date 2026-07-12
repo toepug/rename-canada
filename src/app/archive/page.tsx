@@ -18,7 +18,7 @@ export default function ArchiveIndex() {
       <Header />
       <Breadcrumb
         trail={[
-          { label: "NDRS.ca", href: "/" },
+          { label: "NDRS-SRDN.ca", href: "/" },
           { label: "Programs", href: "/" },
           {
             label: "Canada Name Transition Pilot Program",

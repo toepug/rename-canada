@@ -26,7 +26,7 @@ export default async function UpdatePage({
       <Header />
       <Breadcrumb
         trail={[
-          { label: "NDRS.ca", href: "/" },
+          { label: "NDRS-SRDN.ca", href: "/" },
           { label: "Progress updates", href: "/updates" },
           { label: entry.title },
         ]}

@@ -16,7 +16,7 @@ export default function CandidatesIndex() {
       <Header />
       <Breadcrumb
         trail={[
-          { label: "NDRS.ca", href: "/" },
+          { label: "NDRS-SRDN.ca", href: "/" },
           { label: "Candidate Designations" },
         ]}
       />

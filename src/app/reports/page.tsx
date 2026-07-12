@@ -16,7 +16,7 @@ export default function ReportsIndex() {
       <Header />
       <Breadcrumb
         trail={[
-          { label: "NDRS.ca", href: "/" },
+          { label: "NDRS-SRDN.ca", href: "/" },
           { label: "Reports and publications" },
         ]}
       />

@@ -26,7 +26,7 @@ export default async function ArchiveEntryPage({
       <Header />
       <Breadcrumb
         trail={[
-          { label: "NDRS.ca", href: "/" },
+          { label: "NDRS-SRDN.ca", href: "/" },
           { label: "Legacy Deprecation Archive", href: "/archive" },
           { label: entry.title },
         ]}

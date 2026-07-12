@@ -11,7 +11,7 @@ dateModified: 2026-05-28
 ---
 
 <!-- Eyebrow: Legacy Deprecation Archive -->
-<!-- Breadcrumb: NDRS.ca > Programs > Canada Name Transition Pilot Program > Legacy Deprecation Archive > Rejected Designations Annex -->
+<!-- Breadcrumb: NDRS-SRDN.ca > Programs > Canada Name Transition Pilot Program > Legacy Deprecation Archive > Rejected Designations Annex -->
 
 # Rejected Designations Annex
 

@@ -5,7 +5,7 @@ dateModified: 2026-04-15
 ---
 
 <!-- Eyebrow: National Designation Renewal Secretariat -->
-<!-- Breadcrumb: NDRS.ca > About -->
+<!-- Breadcrumb: NDRS-SRDN.ca > About -->
 
 # About the National Designation Renewal Secretariat
 

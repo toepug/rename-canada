@@ -26,7 +26,7 @@ export default async function ReportPage({
       <Header />
       <Breadcrumb
         trail={[
-          { label: "NDRS.ca", href: "/" },
+          { label: "NDRS-SRDN.ca", href: "/" },
           { label: "Reports and publications", href: "/reports" },
           { label: entry.title },
         ]}

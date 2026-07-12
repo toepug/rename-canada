@@ -11,7 +11,7 @@ export default function NotFound() {
   return (
     <>
       <Header />
-      <Breadcrumb trail={[{ label: "NDRS.ca", href: "/" }, { label: "Page not found" }]} />
+      <Breadcrumb trail={[{ label: "NDRS-SRDN.ca", href: "/" }, { label: "Page not found" }]} />
       <main className="flex-1">
         <div className="mx-auto max-w-3xl px-4 py-8 md:px-8">
           <h1 className="mb-1 border-b-4 border-ndrs-accent pb-3 font-heading text-3xl font-bold text-foreground">
@@ -37,7 +37,7 @@ export default function NotFound() {
           <ul className="list-disc space-y-2 pl-5 text-sm">
             <li>
               <Link href="/" className="text-ndrs-link underline">
-                NDRS.ca home
+                NDRS-SRDN.ca home
               </Link>
             </li>
             <li>

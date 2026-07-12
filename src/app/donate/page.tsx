@@ -15,7 +15,7 @@ export default function DonatePage() {
     <>
       <Header />
       <Breadcrumb
-        trail={[{ label: "NDRS.ca", href: "/" }, { label: "Support the Program" }]}
+        trail={[{ label: "NDRS-SRDN.ca", href: "/" }, { label: "Support the Program" }]}
       />
       <main className="flex-1">
         <MarkdownContent body={page.body} />

@@ -14,7 +14,7 @@ export default function EngagementPage() {
     <>
       <Header />
       <Breadcrumb
-        trail={[{ label: "NDRS.ca", href: "/" }, { label: "Public engagement" }]}
+        trail={[{ label: "NDRS-SRDN.ca", href: "/" }, { label: "Public engagement" }]}
       />
       <main className="flex-1">
         <div className="mx-auto max-w-3xl px-4 py-8 md:px-8">

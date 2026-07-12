@@ -9,7 +9,7 @@ status: FINAL (Revision 5)
 dateModified: 2026-07-11
 ---
 
-<!-- Breadcrumb: NDRS.ca > Programs > Canada Name Transition Pilot Program > Reports & Publications > Legacy Risk Register -->
+<!-- Breadcrumb: NDRS-SRDN.ca > Programs > Canada Name Transition Pilot Program > Reports & Publications > Legacy Risk Register -->
 <!-- Render note: this page presents as a Meridian-branded document embedded in the NDRS shell — different typography inside the frame if feasible; the register clash is the joke -->
 
 # Legacy Risk Register: National Heritage Exposure Audit

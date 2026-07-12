@@ -28,7 +28,7 @@ export function Header() {
         <div className="mx-auto flex max-w-6xl gap-0">
           <input
             type="search"
-            placeholder="Search NDRS.ca"
+            placeholder="Search NDRS-SRDN.ca"
             className="w-full border border-gray-400 px-3 py-2 text-sm"
           />
           <button

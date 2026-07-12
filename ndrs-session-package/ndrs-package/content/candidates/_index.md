@@ -1,7 +1,7 @@
 ---
 title: "Candidate Designations — Official Shortlist"
 slug: candidates
-breadcrumb: "NDRS.ca > Programs > Canada Name Transition Pilot Program > Candidate Designations"
+breadcrumb: "NDRS-SRDN.ca > Programs > Canada Name Transition Pilot Program > Candidate Designations"
 eyebrow: "Canada Name Transition Pilot Program (Phase 0)"
 from: "National Designation Renewal Secretariat"
 status_tag: "Open — accepting designations"

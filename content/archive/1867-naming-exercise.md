@@ -13,7 +13,7 @@ dateModified: 2026-06-02
 ---
 
 <!-- Eyebrow: Legacy Deprecation Archive -->
-<!-- Breadcrumb: NDRS.ca > Programs > Canada Name Transition Pilot Program > Legacy Deprecation Archive > Precedent File: The 1867 Naming Exercise -->
+<!-- Breadcrumb: NDRS-SRDN.ca > Programs > Canada Name Transition Pilot Program > Legacy Deprecation Archive > Precedent File: The 1867 Naming Exercise -->
 
 # Precedent File: The 1867 Naming Exercise
 

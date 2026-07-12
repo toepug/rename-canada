@@ -15,7 +15,7 @@ export default function UpdatesIndex() {
     <>
       <Header />
       <Breadcrumb
-        trail={[{ label: "NDRS.ca", href: "/" }, { label: "Progress updates" }]}
+        trail={[{ label: "NDRS-SRDN.ca", href: "/" }, { label: "Progress updates" }]}
       />
       <main className="flex-1">
         <div className="mx-auto max-w-3xl px-4 py-8 md:px-8">
