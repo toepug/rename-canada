@@ -5,7 +5,7 @@ deliverable: "PN-D-007"
 author: "Meridian Narrative Partners"
 project: "Project Northstar: A National Renaming Journey"
 commissionedBy: "National Designation Renewal Secretariat"
-status: FINAL (Revision 7)
+status: FINAL (Revision 8)
 dateModified: 2026-07-12
 ---
 
@@ -15,7 +15,7 @@ dateModified: 2026-07-12
 # Legacy Risk Register: National Heritage Exposure Audit
 
 **Project Northstar: A National Renaming Journey**
-Deliverable PN-D-007 · Final (Revision 7) · Prepared for the National Designation Renewal Secretariat
+Deliverable PN-D-007 · Final (Revision 8) · Prepared for the National Designation Renewal Secretariat
 
 *This document contains proprietary methodologies of Meridian Narrative Partners, including the Heritage Density Scan™ and the Emotional Attachment Index™. Deliverable warranty: 18 months from date of acceptance. Reproduction of this document constitutes acceptance.*
 
@@ -84,7 +84,7 @@ Meridian assesses this as the audit's most significant finding: **the national n
 
 ## 3. Selected asset deep-dives
 
-*Seven representative Tier One assets, presented to illustrate the exposure profile. Full register available in the data room.*
+*Eight representative Tier One assets, presented to illustrate the exposure profile. Full register available in the data room.*
 
 ### 3.1 Asset #0214 — The Welland Canal
 
@@ -113,6 +113,10 @@ A sterling silver trophy donated in 1892 by a sitting Governor General and award
 ### 3.7 Asset #1908 — Anne of Green Gables
 
 A fictional orphan introduced in a 1908 novel, associated with a real Prince Edward Island farmhouse now administered as a federal historic site. Our analysts flag this asset as the register's first confirmed instance of a Tier One classification assigned to a subject with no underlying historical occurrence — Fact Density remains severe despite this, driven entirely by the asset's downstream effects (tourism volume, bilateral cultural exchange with Japan, one Guinness World Record). Ownership of the character is further split between a public-domain literary text and a perpetually renewing set of official marks, a custodial structure our legal review was unable to reconcile with a single point of contact. **Classification: Tier One (Concerning) — Fictional; jurisdiction split.**
+
+### 3.8 Asset #1901 — Signal Hill
+
+The site of the first confirmed transatlantic wireless reception, 12 December 1901, presently administered as a Parks Canada National Historic Site. Our analysts flag this asset as carrying an unusual compounding factor: the location was not part of Canada at the time of the underlying event, and its current status as a national achievement rests on Newfoundland's 1949 union with Canada rather than on anything true in 1901. The receiving structure itself no longer exists, having burned down independently of any Program action, leaving Fact Density severe but Physical Reachability nil. **Classification: Tier One (Concerning) — Retroactive.**
 
 ## 4. The emotional attachment problem
 
