@@ -9,7 +9,7 @@ region: National
 era: 1864–1982
 reviewCycle: Quarterly (Phase 0)
 consultationStatus: COMPLETE
-dateModified: 2026-06-02
+dateModified: 2026-07-12
 ---
 
 <!-- Eyebrow: Legacy Deprecation Archive -->
@@ -100,6 +100,7 @@ Phase 0 scoping has confirmed this conclusion and referred it for additional sco
 
 - [Asset File 0001: "Canada"](/archive/canada) — s. 2.3, political consolidation
 - [Rejected Designations Annex](/archive/rejected-designations) — A.2 (Tuponia), A.3 (Laurentia)
+- [Asset File 1967: Expo 67](/archive/expo-67) — the Confederation centennial this file documents
 - Meridian Narrative Partners — *Brand Transition Feasibility Study, Phase 0 Interim* ([Reports](/reports))
 
 ---
@@ -111,12 +112,12 @@ Phase 0 scoping has confirmed this conclusion and referred it for additional sco
 
 | Date | Revision |
 |---|---|
+| 2026-07-12 | Cross-reference to Asset File 1967 (Expo 67) added, s. 5.0 |
 | 2026-06-02 | Section 2.4 morale flag applied |
 | 2026-04-17 | Hazard 3 dignity determination recorded |
-| 2026-02-20 | Precedent file opened |
 
 ---
 
 *Did you find what you were looking for?* **Yes / No**
 
-**Date modified:** 2026-06-02
+**Date modified:** 2026-07-12

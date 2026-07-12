@@ -5,7 +5,7 @@ deliverable: "PN-D-007"
 author: "Meridian Narrative Partners"
 project: "Project Northstar: A National Renaming Journey"
 commissionedBy: "National Designation Renewal Secretariat"
-status: FINAL (Revision 8)
+status: FINAL (Revision 9)
 dateModified: 2026-07-12
 ---
 
@@ -15,7 +15,7 @@ dateModified: 2026-07-12
 # Legacy Risk Register: National Heritage Exposure Audit
 
 **Project Northstar: A National Renaming Journey**
-Deliverable PN-D-007 · Final (Revision 8) · Prepared for the National Designation Renewal Secretariat
+Deliverable PN-D-007 · Final (Revision 9) · Prepared for the National Designation Renewal Secretariat
 
 *This document contains proprietary methodologies of Meridian Narrative Partners, including the Heritage Density Scan™ and the Emotional Attachment Index™. Deliverable warranty: 18 months from date of acceptance. Reproduction of this document constitutes acceptance.*
 
@@ -84,7 +84,7 @@ Meridian assesses this as the audit's most significant finding: **the national n
 
 ## 3. Selected asset deep-dives
 
-*Eight representative Tier One assets, presented to illustrate the exposure profile. Full register available in the data room.*
+*Nine representative Tier One assets, presented to illustrate the exposure profile. Full register available in the data room.*
 
 ### 3.1 Asset #0214 — The Welland Canal
 
@@ -117,6 +117,10 @@ A fictional orphan introduced in a 1908 novel, associated with a real Prince Edw
 ### 3.8 Asset #1901 — Signal Hill
 
 The site of the first confirmed transatlantic wireless reception, 12 December 1901, presently administered as a Parks Canada National Historic Site. Our analysts flag this asset as carrying an unusual compounding factor: the location was not part of Canada at the time of the underlying event, and its current status as a national achievement rests on Newfoundland's 1949 union with Canada rather than on anything true in 1901. The receiving structure itself no longer exists, having burned down independently of any Program action, leaving Fact Density severe but Physical Reachability nil. **Classification: Tier One (Concerning) — Retroactive.**
+
+### 3.9 Asset #1967 — Expo 67
+
+A universal exposition staged on two purpose-built islands as the centrepiece of the 1967 centennial, drawing more visitors over six months than the country's population at the time. Our analysts flag this asset as the register's most administratively fragmented: its three surviving components — a residential building, an environmental museum, and a municipal park — now report to three unrelated authorities, none of which is party to this engagement. Fact Density is compounded by a direct genealogical link to Asset #0002-P (the 1867 Confederation this centennial commemorated). **Classification: Tier One (Concerning) — Fragmented custody.**
 
 ## 4. The emotional attachment problem
 
