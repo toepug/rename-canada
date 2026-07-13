@@ -5,7 +5,7 @@ deliverable: "PN-D-007"
 author: "Meridian Narrative Partners"
 project: "Project Northstar: A National Renaming Journey"
 commissionedBy: "National Designation Renewal Secretariat"
-status: FINAL (Revision 15)
+status: FINAL (Revision 16)
 dateModified: 2026-07-13
 ---
 
@@ -15,7 +15,7 @@ dateModified: 2026-07-13
 # Legacy Risk Register: National Heritage Exposure Audit
 
 **Project Northstar: A National Renaming Journey**
-Deliverable PN-D-007 · Final (Revision 15) · Prepared for the National Designation Renewal Secretariat
+Deliverable PN-D-007 · Final (Revision 16) · Prepared for the National Designation Renewal Secretariat
 
 *This document contains proprietary methodologies of Meridian Narrative Partners, including the Heritage Density Scan™ and the Emotional Attachment Index™. Deliverable warranty: 18 months from date of acceptance. Reproduction of this document constitutes acceptance.*
 
@@ -84,7 +84,7 @@ Meridian assesses this as the audit's most significant finding: **the national n
 
 ## 3. Selected asset deep-dives
 
-*Fourteen representative Tier One assets, presented to illustrate the exposure profile. Full register available in the data room.*
+*Fifteen representative Tier One assets, presented to illustrate the exposure profile. Full register available in the data room.*
 
 ### 3.1 Asset #0214 — The Welland Canal
 
@@ -145,6 +145,10 @@ This file has not been assessed. Our practice's ordinary instruments do not appl
 ### 3.15 Asset #1929 — The Persons Case
 
 A 1929 ruling of the Judicial Committee of the Privy Council establishing that Canada's constitution is a "living tree," its language free to acquire meaning it did not carry at the moment of drafting. Our analysts flag this asset as presenting a foundational risk to the Forward Compatibility axis of the Heritage Density Scan™ itself: if constitutional language can grow new meaning over ninety-seven years, our methodology has no basis for certifying that any client designation — however carefully engineered to mean nothing — will still mean nothing in ninety-seven more. We recommend this finding not be shared with the Secretariat's legal counsel. **Classification: Tier One (Concerning) — Methodologically destabilizing.**
+
+### 3.16 Asset #1972 — The Summit Series
+
+An eight-game hockey series between Canada and the Soviet Union, decided by a single goal with 34 seconds remaining in Moscow. Our analysts flag this asset as presenting an unusual geographic profile: half its defining events, including the deciding one, occurred outside Canadian territory, in a state that no longer exists, at a venue demolished in 2023. Emotional Attachment Index™ remains among the highest recorded in the register despite this — our behavioural team notes that the asset's most-replayed footage is, by chance, also the least reachable by any conceivable remediation. **Classification: Tier One (Concerning) — Extraterritorial.**
 
 ## 4. The emotional attachment problem
 
