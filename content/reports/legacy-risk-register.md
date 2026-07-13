@@ -5,7 +5,7 @@ deliverable: "PN-D-007"
 author: "Meridian Narrative Partners"
 project: "Project Northstar: A National Renaming Journey"
 commissionedBy: "National Designation Renewal Secretariat"
-status: FINAL (Revision 18)
+status: FINAL (Revision 19)
 dateModified: 2026-07-13
 ---
 
@@ -15,7 +15,7 @@ dateModified: 2026-07-13
 # Legacy Risk Register: National Heritage Exposure Audit
 
 **Project Northstar: A National Renaming Journey**
-Deliverable PN-D-007 · Final (Revision 18) · Prepared for the National Designation Renewal Secretariat
+Deliverable PN-D-007 · Final (Revision 19) · Prepared for the National Designation Renewal Secretariat
 
 *This document contains proprietary methodologies of Meridian Narrative Partners, including the Heritage Density Scan™ and the Emotional Attachment Index™. Deliverable warranty: 18 months from date of acceptance. Reproduction of this document constitutes acceptance.*
 
@@ -84,7 +84,7 @@ Meridian assesses this as the audit's most significant finding: **the national n
 
 ## 3. Selected asset deep-dives
 
-*Seventeen representative Tier One assets, presented to illustrate the exposure profile. Full register available in the data room.*
+*Eighteen representative Tier One assets, presented to illustrate the exposure profile. Full register available in the data room.*
 
 ### 3.1 Asset #0214 — The Welland Canal
 
@@ -157,6 +157,10 @@ A wild, semi-aquatic mammal, formally recognized as a symbol of Canadian soverei
 ### 3.18 Asset #1920 — The Group of Seven
 
 A circle of landscape painters, formally organized in 1920, whose stated purpose was to render the Canadian landscape worthy of sustained attention. Our Heritage Density Scan™ flags this asset as unusual among cultural works in that its Fact Density derives almost entirely from geographic specificity rather than narrative content: the paintings do not tell a story about a place so much as simply depict one, repeatedly, with skill sufficient to make the place recognizable. Emotional Attachment Index™ is compounded by the asset's near-total saturation of Canadian classroom and calendar imagery. **Classification: Tier One (Concerning) — Geographically explicit.**
+
+### 3.19 Asset #1891 — The Invention of Basketball
+
+A sport invented in Massachusetts by a Canadian-born instructor holding no Canadian citizenship, since none existed at the time. Our analysts flag this asset as presenting a novel export profile: it was developed domestically, in the sense that its inventor's origin is Canadian, but deployed and institutionalized entirely abroad, with global governance now centred in Switzerland. Fact Density is unusually high for an asset with no corresponding domestic Fact Location. **Classification: Tier One (Concerning) — Extraterritorial by design.**
 
 ## 4. The emotional attachment problem
 
