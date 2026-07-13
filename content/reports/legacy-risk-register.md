@@ -5,7 +5,7 @@ deliverable: "PN-D-007"
 author: "Meridian Narrative Partners"
 project: "Project Northstar: A National Renaming Journey"
 commissionedBy: "National Designation Renewal Secretariat"
-status: FINAL (Revision 17)
+status: FINAL (Revision 18)
 dateModified: 2026-07-13
 ---
 
@@ -15,7 +15,7 @@ dateModified: 2026-07-13
 # Legacy Risk Register: National Heritage Exposure Audit
 
 **Project Northstar: A National Renaming Journey**
-Deliverable PN-D-007 · Final (Revision 17) · Prepared for the National Designation Renewal Secretariat
+Deliverable PN-D-007 · Final (Revision 18) · Prepared for the National Designation Renewal Secretariat
 
 *This document contains proprietary methodologies of Meridian Narrative Partners, including the Heritage Density Scan™ and the Emotional Attachment Index™. Deliverable warranty: 18 months from date of acceptance. Reproduction of this document constitutes acceptance.*
 
@@ -84,7 +84,7 @@ Meridian assesses this as the audit's most significant finding: **the national n
 
 ## 3. Selected asset deep-dives
 
-*Sixteen representative Tier One assets, presented to illustrate the exposure profile. Full register available in the data room.*
+*Seventeen representative Tier One assets, presented to illustrate the exposure profile. Full register available in the data room.*
 
 ### 3.1 Asset #0214 — The Welland Canal
 
@@ -153,6 +153,10 @@ An eight-game hockey series between Canada and the Soviet Union, decided by a si
 ### 3.17 Asset #1975 — The Beaver
 
 A wild, semi-aquatic mammal, formally recognized as a symbol of Canadian sovereignty in 1975 and, for nearly two centuries before that, the principal commodity of the trade network our Fact Density instrument credits with the country's own economic formation. Our analysts flag this asset as methodologically unprecedented: it is the only Tier One asset in the current register capable of independently constructing new infrastructure. Field observation confirms the population is not in decline. **Classification: Tier One (Concerning) — Self-renewing.**
+
+### 3.18 Asset #1920 — The Group of Seven
+
+A circle of landscape painters, formally organized in 1920, whose stated purpose was to render the Canadian landscape worthy of sustained attention. Our Heritage Density Scan™ flags this asset as unusual among cultural works in that its Fact Density derives almost entirely from geographic specificity rather than narrative content: the paintings do not tell a story about a place so much as simply depict one, repeatedly, with skill sufficient to make the place recognizable. Emotional Attachment Index™ is compounded by the asset's near-total saturation of Canadian classroom and calendar imagery. **Classification: Tier One (Concerning) — Geographically explicit.**
 
 ## 4. The emotional attachment problem
 
