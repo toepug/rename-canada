@@ -10,7 +10,7 @@ era: "1871–1885"
 reviewCycle: Quarterly (Phase 0)
 sunsetTarget: "TBD — see 3.2"
 consultationStatus: COMPLETE
-dateModified: 2026-07-12
+dateModified: 2026-07-13
 ---
 
 <!-- Eyebrow: Legacy Deprecation Archive -->
@@ -89,6 +89,7 @@ Sunset is warranted on the merits and cannot presently be executed. The asset ha
 - Meridian Narrative Partners — *Legacy Risk Register*, s. 3.12 ([Reports](/reports))
 - Meridian Narrative Partners — *Legacy Risk Register*, s. 2.2 — this asset cited by name in the Register's own foundational interconnection finding
 - [Asset File 0214: The Welland Canal](/archive/welland-canal) — a second Tier One engineered-infrastructure asset
+- [Asset File 1962: The Trans-Canada Highway](/archive/trans-canada-highway) — a second national-unification infrastructure asset, by road rather than rail
 - Asset File TBD: The Chinese Immigration Act and Head Tax, 1885–1923 *(file pending)*
 
 ---
@@ -100,12 +101,12 @@ Sunset is warranted on the merits and cannot presently be executed. The asset ha
 
 | Date | Revision |
 |---|---|
+| 2026-07-13 | Cross-reference to Asset File 1962 (Trans-Canada Highway) added, s. 4.0 |
 | 2026-07-12 | Corrected a date format inconsistency in section 2.1 |
 | 2026-06-27 | Section 3.2 redress-conflict finding recorded |
-| 2026-05-21 | Asset file opened |
 
 ---
 
 *Did you find what you were looking for?* **Yes / No**
 
-**Date modified:** 2026-07-12
+**Date modified:** 2026-07-13
