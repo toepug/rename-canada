@@ -5,7 +5,7 @@ deliverable: "PN-D-007"
 author: "Meridian Narrative Partners"
 project: "Project Northstar: A National Renaming Journey"
 commissionedBy: "National Designation Renewal Secretariat"
-status: FINAL (Revision 21)
+status: FINAL (Revision 22)
 dateModified: 2026-07-13
 ---
 
@@ -15,7 +15,7 @@ dateModified: 2026-07-13
 # Legacy Risk Register: National Heritage Exposure Audit
 
 **Project Northstar: A National Renaming Journey**
-Deliverable PN-D-007 · Final (Revision 21) · Prepared for the National Designation Renewal Secretariat
+Deliverable PN-D-007 · Final (Revision 22) · Prepared for the National Designation Renewal Secretariat
 
 *This document contains proprietary methodologies of Meridian Narrative Partners, including the Heritage Density Scan™ and the Emotional Attachment Index™. Deliverable warranty: 18 months from date of acceptance. Reproduction of this document constitutes acceptance.*
 
@@ -84,7 +84,7 @@ Meridian assesses this as the audit's most significant finding: **the national n
 
 ## 3. Selected asset deep-dives
 
-*Twenty representative Tier One assets, presented to illustrate the exposure profile. Full register available in the data room.*
+*Twenty-one representative Tier One assets, presented to illustrate the exposure profile. Full register available in the data room.*
 
 ### 3.1 Asset #0214 — The Welland Canal
 
@@ -169,6 +169,10 @@ A 7,821-kilometre national highway, ceremonially opened in 1962 and substantivel
 ### 3.21 Asset #1928 — Pier 21
 
 A Halifax immigration terminal, operational 1928–1971, through which an estimated one million people entered Canada. Our analysts report that standard reframing protocols could not be applied to this file: the underlying material spans roughly one million individual histories, several categories of which resist the register's ordinary instruments entirely. Meridian's professional recommendation is that this file be assessed by the Secretariat directly, without a Narrative Risk Practice deliverable attached. **Classification: Tier One (Concerning) — Aggregate.**
+
+### 3.22 Asset #1980 — The Marathon of Hope
+
+A 5,373-kilometre cross-country run completed on a prosthetic leg in 1980, continued annually since as the world's largest one-day cancer-research fundraiser. Our analysts report that standard reframing protocols could not be applied to this file. The organizing charity's own branding restrictions — a permanent, worldwide prohibition on corporate logos or sponsorship acknowledgment — leave no surface on which our practice's ordinary instruments could act in any case. Meridian's professional recommendation is that this file be assessed by the Secretariat directly, without a Narrative Risk Practice deliverable attached. **Classification: Tier One (Concerning) — Unbrandable.**
 
 ## 4. The emotional attachment problem
 
