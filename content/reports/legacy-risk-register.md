@@ -5,7 +5,7 @@ deliverable: "PN-D-007"
 author: "Meridian Narrative Partners"
 project: "Project Northstar: A National Renaming Journey"
 commissionedBy: "National Designation Renewal Secretariat"
-status: FINAL (Revision 20)
+status: FINAL (Revision 21)
 dateModified: 2026-07-13
 ---
 
@@ -15,7 +15,7 @@ dateModified: 2026-07-13
 # Legacy Risk Register: National Heritage Exposure Audit
 
 **Project Northstar: A National Renaming Journey**
-Deliverable PN-D-007 · Final (Revision 20) · Prepared for the National Designation Renewal Secretariat
+Deliverable PN-D-007 · Final (Revision 21) · Prepared for the National Designation Renewal Secretariat
 
 *This document contains proprietary methodologies of Meridian Narrative Partners, including the Heritage Density Scan™ and the Emotional Attachment Index™. Deliverable warranty: 18 months from date of acceptance. Reproduction of this document constitutes acceptance.*
 
@@ -84,7 +84,7 @@ Meridian assesses this as the audit's most significant finding: **the national n
 
 ## 3. Selected asset deep-dives
 
-*Nineteen representative Tier One assets, presented to illustrate the exposure profile. Full register available in the data room.*
+*Twenty representative Tier One assets, presented to illustrate the exposure profile. Full register available in the data room.*
 
 ### 3.1 Asset #0214 — The Welland Canal
 
@@ -165,6 +165,10 @@ A sport invented in Massachusetts by a Canadian-born instructor holding no Canad
 ### 3.20 Asset #1962 — The Trans-Canada Highway
 
 A 7,821-kilometre national highway, ceremonially opened in 1962 and substantively completed in 1971. Our analysts flag this asset as administratively unprecedented: it has no single owner, no single maintaining authority, and no single physical sign design representing it, each of the ten provinces and three territories having adopted its own shield shape for the identical designation. Fact Density is compounded by the asset's own founding premise — that the country is one thing — being contradicted by its maintenance structure, which is thirteen things. **Classification: Tier One (Concerning) — Administratively unincorporated.**
+
+### 3.21 Asset #1928 — Pier 21
+
+A Halifax immigration terminal, operational 1928–1971, through which an estimated one million people entered Canada. Our analysts report that standard reframing protocols could not be applied to this file: the underlying material spans roughly one million individual histories, several categories of which resist the register's ordinary instruments entirely. Meridian's professional recommendation is that this file be assessed by the Secretariat directly, without a Narrative Risk Practice deliverable attached. **Classification: Tier One (Concerning) — Aggregate.**
 
 ## 4. The emotional attachment problem
 
