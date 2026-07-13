@@ -10,7 +10,7 @@ era: 1914–1934 (exposure ongoing)
 reviewCycle: Quarterly (Phase 0)
 sunsetTarget: "TBD — see 3.2"
 consultationStatus: COMPLETE
-dateModified: 2026-06-11
+dateModified: 2026-07-12
 ---
 
 <!-- Eyebrow: Legacy Deprecation Archive -->
@@ -65,7 +65,7 @@ Winnie died at the zoo in 1934, elderly and much visited. Statues of her, and of
 
 ### 3.1 Cost-basis anomaly
 
-The asset was acquired for $20 and has generated, per Meridian's global scan, heritage exposure embedded in "the childhood of every market we tested." For reference, the candidate designation Norterra™ was developed for $340,000 and is currently polling at 4.1%. The Secretariat has directed that these two figures not appear in the same document again.
+The asset was acquired for $20 and has generated, per Meridian's global scan, heritage exposure embedded in "the childhood of every market we tested." For reference, the candidate designation Norterra™ was developed for $340,000 and is currently polling at 4.1%. The Secretariat has directed that these two figures not appear in the same document again. [Asset File 0096](/archive/discovery-of-insulin) later disregarded this directive under similar circumstances.
 
 ### 3.2 Remediation constraints
 
@@ -90,12 +90,12 @@ Sunset scheduled; asset placed in the deferred queue. Quarterly reviews will ens
 
 | Date | Revision |
 |---|---|
+| 2026-07-12 | Cross-reference to Asset File 0096 (Discovery of Insulin) added, s. 3.1 |
 | 2026-06-11 | Centenary exposure noted; file re-read per review cycle |
 | 2026-04-30 | Panel minutes accepted (3.2) |
-| 2026-02-25 | Asset file opened |
 
 ---
 
 *Did you find what you were looking for?* **Yes / No**
 
-**Date modified:** 2026-06-11
+**Date modified:** 2026-07-12
