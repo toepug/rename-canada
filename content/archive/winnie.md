@@ -10,7 +10,7 @@ era: 1914–1934 (exposure ongoing)
 reviewCycle: Quarterly (Phase 0)
 sunsetTarget: "TBD — see 3.2"
 consultationStatus: COMPLETE
-dateModified: 2026-07-12
+dateModified: 2026-07-13
 ---
 
 <!-- Eyebrow: Legacy Deprecation Archive -->
@@ -78,6 +78,7 @@ Sunset scheduled; asset placed in the deferred queue. Quarterly reviews will ens
 ## 4.0 Related records
 
 - Meridian Narrative Partners — *Legacy Risk Register*, s. 3.4 ([Reports](/reports))
+- [Asset File 1975: The Beaver](/archive/the-beaver) — a second Tier One animal asset
 - Asset File 1878: The White River Winnie's Hometown Festival *(file pending)*
 - Asset File 0623: The Fort Garry Horse *(file pending)*
 
@@ -90,12 +91,12 @@ Sunset scheduled; asset placed in the deferred queue. Quarterly reviews will ens
 
 | Date | Revision |
 |---|---|
+| 2026-07-13 | Cross-reference to Asset File 1975 (The Beaver) added, s. 4.0 |
 | 2026-07-12 | Cross-reference to Asset File 0096 (Discovery of Insulin) added, s. 3.1 |
 | 2026-06-11 | Centenary exposure noted; file re-read per review cycle |
-| 2026-04-30 | Panel minutes accepted (3.2) |
 
 ---
 
 *Did you find what you were looking for?* **Yes / No**
 
-**Date modified:** 2026-07-12
+**Date modified:** 2026-07-13
