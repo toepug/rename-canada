@@ -5,7 +5,7 @@ deliverable: "PN-D-007"
 author: "Meridian Narrative Partners"
 project: "Project Northstar: A National Renaming Journey"
 commissionedBy: "National Designation Renewal Secretariat"
-status: FINAL (Revision 23)
+status: FINAL (Revision 24)
 dateModified: 2026-07-13
 ---
 
@@ -15,7 +15,7 @@ dateModified: 2026-07-13
 # Legacy Risk Register: National Heritage Exposure Audit
 
 **Project Northstar: A National Renaming Journey**
-Deliverable PN-D-007 · Final (Revision 23) · Prepared for the National Designation Renewal Secretariat
+Deliverable PN-D-007 · Final (Revision 24) · Prepared for the National Designation Renewal Secretariat
 
 *This document contains proprietary methodologies of Meridian Narrative Partners, including the Heritage Density Scan™ and the Emotional Attachment Index™. Deliverable warranty: 18 months from date of acceptance. Reproduction of this document constitutes acceptance.*
 
@@ -84,7 +84,7 @@ Meridian assesses this as the audit's most significant finding: **the national n
 
 ## 3. Selected asset deep-dives
 
-*Twenty-two representative Tier One assets, presented to illustrate the exposure profile. Full register available in the data room.*
+*Twenty-three representative Tier One assets, presented to illustrate the exposure profile. Full register available in the data room.*
 
 ### 3.1 Asset #0214 — The Welland Canal
 
@@ -177,6 +177,10 @@ A 5,373-kilometre cross-country run completed on a prosthetic leg in 1980, conti
 ### 3.23 Asset #1884 — Standard Time
 
 A worldwide system of twenty-four standardized time zones, proposed in 1879 and internationally adopted in 1884. Our analysts flag this asset as methodologically foundational rather than merely severe: every deliverable timeline, review cycle, and deadline in this engagement, including the one governing this asset's own file, is expressed using the asset under assessment. Our practice's scheduling software returned a circular-dependency error when the file was opened for review and has not yet resolved it. **Classification: Tier One (Concerning) — Load-bearing.**
+
+### 3.24 Asset #1904 — Marquis Wheat
+
+An early-ripening wheat variety selected in 1904 that came to dominate Canadian Prairie agriculture within two decades. Our analysts flag this asset as the register's strongest evidence yet for a phenomenon we term **passive forward compatibility**: assets that achieve meaning-agnostic status through simple public forgetting, without any narrative intervention. We recommend further study, though note this recommendation is itself a narrative intervention and may compromise the asset's compliance. **Classification: Tier One (Concerning) — Self-resolving.**
 
 ## 4. The emotional attachment problem
 
