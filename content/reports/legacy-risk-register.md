@@ -5,8 +5,8 @@ deliverable: "PN-D-007"
 author: "Meridian Narrative Partners"
 project: "Project Northstar: A National Renaming Journey"
 commissionedBy: "National Designation Renewal Secretariat"
-status: FINAL (Revision 24)
-dateModified: 2026-07-13
+status: FINAL (Revision 25)
+dateModified: 2026-07-14
 ---
 
 <!-- Breadcrumb: NDRS-SRDN.ca > Programs > Canada Name Transition Pilot Program > Reports & Publications > Legacy Risk Register -->
@@ -15,7 +15,7 @@ dateModified: 2026-07-13
 # Legacy Risk Register: National Heritage Exposure Audit
 
 **Project Northstar: A National Renaming Journey**
-Deliverable PN-D-007 · Final (Revision 24) · Prepared for the National Designation Renewal Secretariat
+Deliverable PN-D-007 · Final (Revision 25) · Prepared for the National Designation Renewal Secretariat
 
 *This document contains proprietary methodologies of Meridian Narrative Partners, including the Heritage Density Scan™ and the Emotional Attachment Index™. Deliverable warranty: 18 months from date of acceptance. Reproduction of this document constitutes acceptance.*
 
@@ -84,7 +84,7 @@ Meridian assesses this as the audit's most significant finding: **the national n
 
 ## 3. Selected asset deep-dives
 
-*Twenty-three representative Tier One assets, presented to illustrate the exposure profile. Full register available in the data room.*
+*Twenty-four representative Tier One assets, presented to illustrate the exposure profile. Full register available in the data room.*
 
 ### 3.1 Asset #0214 — The Welland Canal
 
@@ -181,6 +181,10 @@ A worldwide system of twenty-four standardized time zones, proposed in 1879 and 
 ### 3.24 Asset #1904 — Marquis Wheat
 
 An early-ripening wheat variety selected in 1904 that came to dominate Canadian Prairie agriculture within two decades. Our analysts flag this asset as the register's strongest evidence yet for a phenomenon we term **passive forward compatibility**: assets that achieve meaning-agnostic status through simple public forgetting, without any narrative intervention. We recommend further study, though note this recommendation is itself a narrative intervention and may compromise the asset's compliance. **Classification: Tier One (Concerning) — Self-resolving.**
+
+### 3.25 Asset #1811 — The McIntosh Apple
+
+A single tree, discovered in 1811 and dead since 1910, whose every commercial descendant is a graft rather than an offspring. Our analysts flag this asset as presenting a valuation paradox: the originating specimen has a Fact Density of zero, being deceased, while its propagated descendants — genetically identical, believed to number in the billions — collectively register among the highest Emotional Attachment Index™ scores in the current inventory. A separate commercial entity's continued use of an adjacent one-letter designation was assessed but, per counsel, is outside this practice's engagement scope. **Classification: Tier One (Concerning) — Posthumously prolific.**
 
 ## 4. The emotional attachment problem
 
