@@ -63,7 +63,7 @@ Sustained overharvesting sharply reduced beaver populations across much of the c
 
 ### 2.4 From stamp to statute (1851–1975)
 
-In 1851, the colonial Province of Canada issued the Three Penny Beaver, designed by Sir Sandford Fleming — the first postage stamp anywhere to feature an animal rather than a monarch's portrait. The beaver appeared on the Canadian five-cent coin beginning in 1937, in a design by G. E. Kruger-Gray. Official recognition came in 1975, and by way of an unusual trigger: in January of that year, a New York state senator introduced a bill to make the beaver that state's official animal. Within weeks, 23-year-old Member of Parliament Sean O'Sullivan drafted a one-sentence private member's bill — "An Act to provide for the recognition of the Beaver (*Castor canadensis*) as a symbol of the sovereignty of Canada" — which received royal assent on 24 March 1975.
+In 1851, the colonial Province of Canada issued the Three Penny Beaver, designed by Sandford Fleming (later knighted, in 1897) — the first postage stamp anywhere to feature an animal rather than a monarch's portrait. The beaver appeared on the Canadian five-cent coin beginning in 1937, in a design by G. E. Kruger-Gray. Official recognition came in 1975, and by way of an unusual trigger: in January of that year, a New York state senator introduced a bill to make the beaver that state's official animal. Within weeks, 23-year-old Member of Parliament Sean O'Sullivan drafted a one-sentence private member's bill — "An Act to provide for the recognition of the Beaver (*Castor canadensis*) as a symbol of the sovereignty of Canada" — which received royal assent on 24 March 1975.
 
 ## 3.0 Deprecation assessment
 
@@ -83,6 +83,7 @@ Sunset is warranted on the merits and cannot presently be executed, nor, absent 
 
 - Meridian Narrative Partners — *Legacy Risk Register*, s. 3.17 ([Reports](/reports))
 - [Asset File 1877: Winnie](/archive/winnie) — a second Tier One animal asset
+- [Asset File 1884: Standard Time](/archive/standard-time) — the Three Penny Beaver's designer's later work
 - Asset File TBD: The Hudson's Bay Company (1670–present) *(file pending)*
 
 ---
@@ -94,9 +95,9 @@ Sunset is warranted on the merits and cannot presently be executed, nor, absent 
 
 | Date | Revision |
 |---|---|
+| 2026-07-13 | Cross-reference to Asset File 1884 (Standard Time) added, s. 4.0; "Sir" title corrected in 2.4 to reflect Fleming's 1897 knighthood postdating the 1851 stamp |
 | 2026-07-13 | Corrected a taxonomic italicization error in 1.0 |
 | 2026-06-08 | Section 3.2 operational finding recorded |
-| 2026-04-30 | Asset file opened |
 
 ---
 

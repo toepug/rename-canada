@@ -5,7 +5,7 @@ deliverable: "PN-D-007"
 author: "Meridian Narrative Partners"
 project: "Project Northstar: A National Renaming Journey"
 commissionedBy: "National Designation Renewal Secretariat"
-status: FINAL (Revision 22)
+status: FINAL (Revision 23)
 dateModified: 2026-07-13
 ---
 
@@ -15,7 +15,7 @@ dateModified: 2026-07-13
 # Legacy Risk Register: National Heritage Exposure Audit
 
 **Project Northstar: A National Renaming Journey**
-Deliverable PN-D-007 · Final (Revision 22) · Prepared for the National Designation Renewal Secretariat
+Deliverable PN-D-007 · Final (Revision 23) · Prepared for the National Designation Renewal Secretariat
 
 *This document contains proprietary methodologies of Meridian Narrative Partners, including the Heritage Density Scan™ and the Emotional Attachment Index™. Deliverable warranty: 18 months from date of acceptance. Reproduction of this document constitutes acceptance.*
 
@@ -84,7 +84,7 @@ Meridian assesses this as the audit's most significant finding: **the national n
 
 ## 3. Selected asset deep-dives
 
-*Twenty-one representative Tier One assets, presented to illustrate the exposure profile. Full register available in the data room.*
+*Twenty-two representative Tier One assets, presented to illustrate the exposure profile. Full register available in the data room.*
 
 ### 3.1 Asset #0214 — The Welland Canal
 
@@ -173,6 +173,10 @@ A Halifax immigration terminal, operational 1928–1971, through which an estima
 ### 3.22 Asset #1980 — The Marathon of Hope
 
 A 5,373-kilometre cross-country run completed on a prosthetic leg in 1980, continued annually since as the world's largest one-day cancer-research fundraiser. Our analysts report that standard reframing protocols could not be applied to this file. The organizing charity's own branding restrictions — a permanent, worldwide prohibition on corporate logos or sponsorship acknowledgment — leave no surface on which our practice's ordinary instruments could act in any case. Meridian's professional recommendation is that this file be assessed by the Secretariat directly, without a Narrative Risk Practice deliverable attached. **Classification: Tier One (Concerning) — Unbrandable.**
+
+### 3.23 Asset #1884 — Standard Time
+
+A worldwide system of twenty-four standardized time zones, proposed in 1879 and internationally adopted in 1884. Our analysts flag this asset as methodologically foundational rather than merely severe: every deliverable timeline, review cycle, and deadline in this engagement, including the one governing this asset's own file, is expressed using the asset under assessment. Our practice's scheduling software returned a circular-dependency error when the file was opened for review and has not yet resolved it. **Classification: Tier One (Concerning) — Load-bearing.**
 
 ## 4. The emotional attachment problem
 
