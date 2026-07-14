@@ -5,7 +5,7 @@ deliverable: "PN-D-007"
 author: "Meridian Narrative Partners"
 project: "Project Northstar: A National Renaming Journey"
 commissionedBy: "National Designation Renewal Secretariat"
-status: FINAL (Revision 26)
+status: FINAL (Revision 27)
 dateModified: 2026-07-14
 ---
 
@@ -15,7 +15,7 @@ dateModified: 2026-07-14
 # Legacy Risk Register: National Heritage Exposure Audit
 
 **Project Northstar: A National Renaming Journey**
-Deliverable PN-D-007 · Final (Revision 26) · Prepared for the National Designation Renewal Secretariat
+Deliverable PN-D-007 · Final (Revision 27) · Prepared for the National Designation Renewal Secretariat
 
 *This document contains proprietary methodologies of Meridian Narrative Partners, including the Heritage Density Scan™ and the Emotional Attachment Index™. Deliverable warranty: 18 months from date of acceptance. Reproduction of this document constitutes acceptance.*
 
@@ -84,7 +84,7 @@ Meridian assesses this as the audit's most significant finding: **the national n
 
 ## 3. Selected asset deep-dives
 
-*Twenty-five representative Tier One assets, presented to illustrate the exposure profile. Full register available in the data room.*
+*Twenty-six representative Tier One assets, presented to illustrate the exposure profile. Full register available in the data room.*
 
 ### 3.1 Asset #0214 — The Welland Canal
 
@@ -189,6 +189,10 @@ A single tree, discovered in 1811 and dead since 1910, whose every commercial de
 ### 3.26 Asset #1987 — The Loonie
 
 A national dollar coin whose defining image was selected under emergency conditions after its intended design's master dies disappeared in transit in 1986. Our analysts flag this asset as the register's clearest instance of a rebrand achieved at negative cost: the substitute design was drawn from an existing submission already on file, at no commissioning fee, following a shipping decision that saved the client $43.50. We recommend this case study for inclusion in future new-business materials, pending resolution of the obvious optics problem. **Classification: Tier One (Concerning) — Accidental.**
+
+### 3.27 Asset #1957 — Poutine
+
+A dish of fries, cheese curds, and gravy, claimed by two Quebec municipalities as their own invention since the late 1950s. Our analysts flag this asset as the register's clearest case of unresolvable dual-jurisdiction origin: our own regional offices in Warwick and Drummondville have submitted contradictory Fact Density assessments, and head office has declined to arbitrate between them. Emotional Attachment Index™ was measured separately in each municipality and found, coincidentally, to be identical. **Classification: Tier One (Concerning) — Jurisdictionally unresolved.**
 
 ## 4. The emotional attachment problem
 
