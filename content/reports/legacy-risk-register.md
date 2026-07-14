@@ -5,7 +5,7 @@ deliverable: "PN-D-007"
 author: "Meridian Narrative Partners"
 project: "Project Northstar: A National Renaming Journey"
 commissionedBy: "National Designation Renewal Secretariat"
-status: FINAL (Revision 25)
+status: FINAL (Revision 26)
 dateModified: 2026-07-14
 ---
 
@@ -15,7 +15,7 @@ dateModified: 2026-07-14
 # Legacy Risk Register: National Heritage Exposure Audit
 
 **Project Northstar: A National Renaming Journey**
-Deliverable PN-D-007 · Final (Revision 25) · Prepared for the National Designation Renewal Secretariat
+Deliverable PN-D-007 · Final (Revision 26) · Prepared for the National Designation Renewal Secretariat
 
 *This document contains proprietary methodologies of Meridian Narrative Partners, including the Heritage Density Scan™ and the Emotional Attachment Index™. Deliverable warranty: 18 months from date of acceptance. Reproduction of this document constitutes acceptance.*
 
@@ -84,7 +84,7 @@ Meridian assesses this as the audit's most significant finding: **the national n
 
 ## 3. Selected asset deep-dives
 
-*Twenty-four representative Tier One assets, presented to illustrate the exposure profile. Full register available in the data room.*
+*Twenty-five representative Tier One assets, presented to illustrate the exposure profile. Full register available in the data room.*
 
 ### 3.1 Asset #0214 — The Welland Canal
 
@@ -185,6 +185,10 @@ An early-ripening wheat variety selected in 1904 that came to dominate Canadian 
 ### 3.25 Asset #1811 — The McIntosh Apple
 
 A single tree, discovered in 1811 and dead since 1910, whose every commercial descendant is a graft rather than an offspring. Our analysts flag this asset as presenting a valuation paradox: the originating specimen has a Fact Density of zero, being deceased, while its propagated descendants — genetically identical, believed to number in the billions — collectively register among the highest Emotional Attachment Index™ scores in the current inventory. A separate commercial entity's continued use of an adjacent one-letter designation was assessed but, per counsel, is outside this practice's engagement scope. **Classification: Tier One (Concerning) — Posthumously prolific.**
+
+### 3.26 Asset #1987 — The Loonie
+
+A national dollar coin whose defining image was selected under emergency conditions after its intended design's master dies disappeared in transit in 1986. Our analysts flag this asset as the register's clearest instance of a rebrand achieved at negative cost: the substitute design was drawn from an existing submission already on file, at no commissioning fee, following a shipping decision that saved the client $43.50. We recommend this case study for inclusion in future new-business materials, pending resolution of the obvious optics problem. **Classification: Tier One (Concerning) — Accidental.**
 
 ## 4. The emotional attachment problem
 
