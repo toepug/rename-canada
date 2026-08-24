@@ -17,8 +17,13 @@ export default function ArchiveIndex() {
   const allEntries = getArchiveEntries().sort((a, b) =>
     a.assetNumber < b.assetNumber ? -1 : 1,
   );
-  const entries = allEntries.filter((e) => !EXEMPT_SLUGS.has(e.slug));
   const exemptEntries = allEntries.filter((e) => EXEMPT_SLUGS.has(e.slug));
+  const separateReviewEntries = allEntries.filter(
+    (e) => !EXEMPT_SLUGS.has(e.slug) && e.separateReview,
+  );
+  const entries = allEntries.filter(
+    (e) => !EXEMPT_SLUGS.has(e.slug) && !e.separateReview,
+  );
 
   return (
     <>
@@ -45,6 +50,31 @@ export default function ArchiveIndex() {
             lost.
           </p>
           <ArchiveFilterPanel entries={entries} />
+
+          {separateReviewEntries.length > 0 && (
+            <div className="mt-10 border-t border-gray-200 pt-6">
+              <h2 className="font-heading text-base font-bold text-foreground">
+                Held under separate review
+              </h2>
+              <ul className="mt-3 divide-y divide-gray-200 border-t border-gray-200">
+                {separateReviewEntries.map((entry) => (
+                  <li key={entry.slug} className="py-3">
+                    <Link
+                      href={`/archive/${entry.slug}`}
+                      className="font-heading text-lg font-bold text-ndrs-link underline"
+                    >
+                      {entry.title}
+                    </Link>
+                    <p className="mt-1 text-sm text-gray-600">
+                      {[entry.assetNumber, entry.category]
+                        .filter(Boolean)
+                        .join(" · ")}
+                    </p>
+                  </li>
+                ))}
+              </ul>
+            </div>
+          )}
 
           {exemptEntries.length > 0 && (
             <div className="mt-10 border-t border-gray-200 pt-6">

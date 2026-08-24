@@ -13,6 +13,7 @@ export interface ArchiveEntry {
   category: string;
   assetClass?: string;
   deferralReason?: string;
+  separateReview?: boolean;
   region: string;
   era: string;
   reviewCycle: string;

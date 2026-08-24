@@ -5,8 +5,8 @@ deliverable: "PN-D-007"
 author: "Meridian Narrative Partners"
 project: "Project Northstar: A National Renaming Journey"
 commissionedBy: "National Designation Renewal Secretariat"
-status: FINAL (Revision 28)
-dateModified: 2026-07-14
+status: FINAL (Revision 29)
+dateModified: 2026-08-24
 ---
 
 <!-- Breadcrumb: NDRS-SRDN.ca > Programs > Canada Name Transition Pilot Program > Reports & Publications > Legacy Risk Register -->
@@ -15,7 +15,7 @@ dateModified: 2026-07-14
 # Legacy Risk Register: National Heritage Exposure Audit
 
 **Project Northstar: A National Renaming Journey**
-Deliverable PN-D-007 · Final (Revision 28) · Prepared for the National Designation Renewal Secretariat
+Deliverable PN-D-007 · Final (Revision 29) · Prepared for the National Designation Renewal Secretariat
 
 *This document contains proprietary methodologies of Meridian Narrative Partners, including the Heritage Density Scan™ and the Emotional Attachment Index™. Deliverable warranty: 18 months from date of acceptance. Reproduction of this document constitutes acceptance.*
 
@@ -197,6 +197,10 @@ A dish of fries, cheese curds, and gravy, claimed by two Quebec municipalities a
 ### 3.28 Asset #1021 — L'Anse aux Meadows
 
 A Norse encampment on Newfoundland's Great Northern Peninsula, its timber precisely dated by cosmic-ray tree-ring analysis to the year 1021 CE — the oldest asset in the current register by a margin of centuries. Our analysts flag this asset as the register's clearest instance of a Fact Density ceiling being raised mid-engagement: the asset was already non-compliant under the earlier "circa 1000 CE" estimate, and the 2021 dating study has since made the finding more precise without making it less true. No mitigation was available before the new date and none has become available since. **Classification: Tier One (Concerning) — Chronologically confirmed.**
+
+### 3.29 Asset #1917-B — The Halifax Explosion
+
+This file has not been assessed. Our practice's ordinary instruments do not apply to it, and none will be substituted. We recommend no further engagement.
 
 ## 4. The emotional attachment problem
 

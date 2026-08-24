@@ -4,13 +4,14 @@ slug: vimy-ridge
 assetNumber: "LDA-1917"
 status: WITHDRAWN FROM SCHEDULE
 statusColour: grey
+separateReview: true
 category: Historical event
 region: "Pas-de-Calais, France (Canadian national memorial site)"
 era: "9–12 April 1917"
 reviewCycle: Quarterly (Phase 0)
 sunsetTarget: "N/A"
 consultationStatus: COMPLETE
-dateModified: 2026-07-12
+dateModified: 2026-08-24
 ---
 
 <!-- Eyebrow: Legacy Deprecation Archive -->
@@ -72,6 +73,7 @@ This file carries no compliance finding. No action is available, and none is pro
 ## 4.0 Related records
 
 - Meridian Narrative Partners — *Legacy Risk Register*, s. 3.14 ([Reports](/reports))
+- [Asset File 1917-B: The Halifax Explosion](/archive/halifax-explosion) — the same year, held under the same review status
 - Asset File TBD: The Canadian Corps and the First World War *(file pending)*
 
 ---
@@ -82,10 +84,11 @@ This file carries no compliance finding. No action is available, and none is pro
 
 | Date | Revision |
 |---|---|
+| 2026-08-24 | Cross-reference to Asset File 1917-B (The Halifax Explosion) added, s. 4.0 |
 | 2026-07-12 | Asset file opened |
 
 ---
 
 *Did you find what you were looking for?* **Yes / No**
 
-**Date modified:** 2026-07-12
+**Date modified:** 2026-08-24
