@@ -2,8 +2,8 @@
 title: "Asset File 1832: The Rideau Canal"
 slug: rideau-canal
 assetNumber: "LDA-1832"
-status: DEPRECATION SCHEDULED
-statusColour: yellow
+status: WITHDRAWN FROM SCHEDULE
+statusColour: grey
 category: Engineered work
 region: Ontario — Ottawa to Kingston corridor
 era: "1826–1832 (in continuous operation since)"
@@ -20,7 +20,7 @@ dateModified: 2026-07-12
 
 **From:** National Designation Renewal Secretariat
 
-> ⚠ **DEPRECATION SCHEDULED** — This asset was classified Tier One (Concerning) in the *Legacy Risk Register: National Heritage Exposure Audit* (Meridian Narrative Partners, PN-D-007, s. 3.11). The historical record below is preserved for administrative completeness only.
+> ⚠ **WITHDRAWN FROM SCHEDULE** — This asset was classified Tier One (Concerning) in the *Legacy Risk Register: National Heritage Exposure Audit* (Meridian Narrative Partners, PN-D-007, s. 3.11). The historical record below is preserved in full.
 
 **On this page**
 

@@ -7,7 +7,7 @@ statusColour: grey
 category: Annex
 reviewCycle: None — files closed
 consultationStatus: COMPLETE
-dateModified: 2026-05-28
+dateModified: 2026-07-14
 ---
 
 <!-- Eyebrow: Legacy Deprecation Archive -->
@@ -119,7 +119,7 @@ The review panel initially scored the designation favourably on distinctiveness 
 
 ### Grounds for rejection
 
-The designation carries a confirmed historical association predating Confederation by approximately 867 years, an exposure classified as a pre-Confederation liability. The review panel further noted that the association was *verified by archaeology*, foreclosing the preferred mitigation (treating the history as unconfirmed). The UNESCO designation constitutes an additional, international layer of heritage exposure beyond the Secretariat's remediation authority.
+The designation carries a confirmed historical association predating Confederation by approximately 867 years, an exposure classified as a pre-Confederation liability. The review panel further noted that the association was *verified by archaeology*, foreclosing the preferred mitigation (treating the history as unconfirmed). The UNESCO designation constitutes an additional, international layer of heritage exposure beyond the Secretariat's remediation authority. [Asset File 1021](/archive/lanse-aux-meadows), this Archive's separate record of the site itself, calculates the interval at 846 years using a more recent dating method. The discrepancy has not been reconciled.
 
 **Disposition:** File closed. The site itself remains open to visitors, a matter outside the Program's jurisdiction.
 
@@ -137,12 +137,12 @@ Canadians reviewing this annex may observe that each rejected designation was di
 
 | Date | Revision |
 |---|---|
+| 2026-07-14 | Cross-reference to Asset File 1021 (L'Anse aux Meadows) added, A.4 |
 | 2026-05-28 | A.3 benchmark status confirmed |
 | 2026-03-30 | Annex note added following public inquiries |
-| 2026-02-11 | Annex opened |
 
 ---
 
 *Did you find what you were looking for?* **Yes / No**
 
-**Date modified:** 2026-05-28
+**Date modified:** 2026-07-14

@@ -2,8 +2,8 @@
 title: "Asset File 1980: The Marathon of Hope"
 slug: marathon-of-hope
 assetNumber: "LDA-1980"
-status: DEPRECATION SCHEDULED
-statusColour: yellow
+status: WITHDRAWN FROM SCHEDULE
+statusColour: grey
 category: Historical event (charitable run)
 region: "National (St. John's, N.L., to Thunder Bay, Ont.); observed in 60+ countries annually"
 era: "1980–present"
@@ -20,7 +20,7 @@ dateModified: 2026-07-13
 
 **From:** National Designation Renewal Secretariat
 
-> ⚠ **DEPRECATION SCHEDULED** — This asset was classified Tier One (Concerning) in the *Legacy Risk Register: National Heritage Exposure Audit* (Meridian Narrative Partners, PN-D-007, s. 3.22). The historical record below is preserved for administrative completeness only.
+> ⚠ **WITHDRAWN FROM SCHEDULE** — This asset was classified Tier One (Concerning) in the *Legacy Risk Register: National Heritage Exposure Audit* (Meridian Narrative Partners, PN-D-007, s. 3.22). The historical record below is preserved in full.
 
 **On this page**
 

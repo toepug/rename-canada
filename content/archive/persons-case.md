@@ -2,9 +2,11 @@
 title: "Asset File 1929: The Persons Case"
 slug: persons-case
 assetNumber: "LDA-1929"
-status: DEPRECATION SCHEDULED
+status: DEFERRED
 statusColour: yellow
+deferralReason: "doctrine embedded in decades of constitutional jurisprudence"
 category: Historical event
+assetClass: Events
 region: "National; heard before the Judicial Committee of the Privy Council, London, England"
 era: "1927–1929"
 reviewCycle: Quarterly (Phase 0)
@@ -20,7 +22,7 @@ dateModified: 2026-07-13
 
 **From:** National Designation Renewal Secretariat
 
-> ⚠ **DEPRECATION SCHEDULED** — This asset was classified Tier One (Concerning) in the *Legacy Risk Register: National Heritage Exposure Audit* (Meridian Narrative Partners, PN-D-007, s. 3.15). The historical record below is preserved for administrative completeness only.
+> ⚠ **DEFERRED** — This asset was classified Tier One (Concerning) in the *Legacy Risk Register: National Heritage Exposure Audit* (Meridian Narrative Partners, PN-D-007, s. 3.15). Deferral reason: doctrine embedded in decades of constitutional jurisprudence. The historical record below is preserved for administrative completeness only.
 
 **On this page**
 

@@ -2,9 +2,11 @@
 title: "Asset File 1892: The Stanley Cup"
 slug: stanley-cup
 assetNumber: "LDA-1892"
-status: DEPRECATION SCHEDULED
+status: DEFERRED
 statusColour: yellow
+deferralReason: "held in perpetual trust; no addressable legal owner"
 category: Object (trophy, silver)
+assetClass: Objects of State
 region: Ontario — Ottawa (donated); Toronto (custody); asset in annual national circulation
 era: 1892–present
 reviewCycle: Quarterly (Phase 0)
@@ -20,7 +22,7 @@ dateModified: 2026-07-12
 
 **From:** National Designation Renewal Secretariat
 
-> ⚠ **DEPRECATION SCHEDULED** — This asset was classified Tier One (Concerning) in the *Legacy Risk Register: National Heritage Exposure Audit* (Meridian Narrative Partners, PN-D-007, s. 3.6). The historical record below is preserved for administrative completeness only.
+> ⚠ **DEFERRED** — This asset was classified Tier One (Concerning) in the *Legacy Risk Register: National Heritage Exposure Audit* (Meridian Narrative Partners, PN-D-007, s. 3.6). Deferral reason: held in perpetual trust; no addressable legal owner. The historical record below is preserved for administrative completeness only.
 
 **On this page**
 

@@ -2,9 +2,11 @@
 title: "Asset File 0001: \"Canada\""
 slug: canada
 assetNumber: "LDA-0001"
-status: DEPRECATION SCHEDULED
+status: DEFERRED
 statusColour: yellow
+deferralReason: "no historical association exists that does not attach to this designation"
 category: National Identifier
+assetClass: Events
 region: National
 era: 1535–present
 reviewCycle: Quarterly (Phase 0)
@@ -20,7 +22,7 @@ dateModified: 2026-06-19
 
 **From:** National Designation Renewal Secretariat
 
-> ⚠ **DEPRECATION SCHEDULED** — This designation has been identified for sunset under the National Identifier Sunset and Succession Program (TB Reg. 2024-117). The historical record below is preserved for administrative completeness only.
+> ⚠ **DEFERRED** — This designation has been identified for sunset under the National Identifier Sunset and Succession Program (TB Reg. 2024-117). Deferral reason: no historical association exists that does not attach to this designation. The historical record below is preserved for administrative completeness only.
 
 **On this page**
 

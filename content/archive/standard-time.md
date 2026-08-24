@@ -2,9 +2,11 @@
 title: "Asset File 1884: Standard Time"
 slug: standard-time
 assetNumber: "LDA-1884"
-status: DEPRECATION SCHEDULED
+status: DEFERRED
 statusColour: yellow
+deferralReason: "no date can be fixed without relying on the asset itself"
 category: Scientific achievement
+assetClass: Events
 region: "National (proposed); adopted internationally, Washington, D.C., 1884"
 era: "1876–1929"
 reviewCycle: Quarterly (Phase 0)
@@ -20,7 +22,7 @@ dateModified: 2026-07-13
 
 **From:** National Designation Renewal Secretariat
 
-> ⚠ **DEPRECATION SCHEDULED** — This asset was classified Tier One (Concerning) in the *Legacy Risk Register: National Heritage Exposure Audit* (Meridian Narrative Partners, PN-D-007, s. 3.23). The historical record below is preserved for administrative completeness only.
+> ⚠ **DEFERRED** — This asset was classified Tier One (Concerning) in the *Legacy Risk Register: National Heritage Exposure Audit* (Meridian Narrative Partners, PN-D-007, s. 3.23). Deferral reason: no date can be fixed without relying on the asset itself. The historical record below is preserved for administrative completeness only.
 
 **On this page**
 

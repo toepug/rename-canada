@@ -2,8 +2,8 @@
 title: "Asset File 0038: The Last Spike"
 slug: last-spike
 assetNumber: "LDA-0038"
-status: DEPRECATION SCHEDULED
-statusColour: yellow
+status: WITHDRAWN FROM SCHEDULE
+statusColour: grey
 category: Historical event
 region: "British Columbia — Craigellachie (ceremony); national in scope"
 era: "1871–1885"
@@ -20,7 +20,7 @@ dateModified: 2026-07-13
 
 **From:** National Designation Renewal Secretariat
 
-> ⚠ **DEPRECATION SCHEDULED** — This asset was classified Tier One (Concerning) in the *Legacy Risk Register: National Heritage Exposure Audit* (Meridian Narrative Partners, PN-D-007, s. 3.12), and is cited independently in the Register's own foundational interconnection finding (s. 2.2). The historical record below is preserved for administrative completeness only.
+> ⚠ **WITHDRAWN FROM SCHEDULE** — This asset was classified Tier One (Concerning) in the *Legacy Risk Register: National Heritage Exposure Audit* (Meridian Narrative Partners, PN-D-007, s. 3.12), and is cited independently in the Register's own foundational interconnection finding (s. 2.2). The historical record below is preserved in full.
 
 **On this page**
 

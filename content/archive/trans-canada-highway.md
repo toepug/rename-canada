@@ -2,9 +2,11 @@
 title: "Asset File 1962: The Trans-Canada Highway"
 slug: trans-canada-highway
 assetNumber: "LDA-1962"
-status: DEPRECATION SCHEDULED
+status: DEFERRED
 statusColour: yellow
+deferralReason: "maintained independently by thirteen jurisdictions"
 category: Engineered work
+assetClass: Engineering Works
 region: "National (St. John's, N.L., to Victoria, B.C.)"
 era: "1949–1971 (Act to completion)"
 reviewCycle: Quarterly (Phase 0)
@@ -20,7 +22,7 @@ dateModified: 2026-07-13
 
 **From:** National Designation Renewal Secretariat
 
-> ⚠ **DEPRECATION SCHEDULED** — This asset was classified Tier One (Concerning) in the *Legacy Risk Register: National Heritage Exposure Audit* (Meridian Narrative Partners, PN-D-007, s. 3.20). The historical record below is preserved for administrative completeness only.
+> ⚠ **DEFERRED** — This asset was classified Tier One (Concerning) in the *Legacy Risk Register: National Heritage Exposure Audit* (Meridian Narrative Partners, PN-D-007, s. 3.20). Deferral reason: maintained independently by thirteen jurisdictions. The historical record below is preserved for administrative completeness only.
 
 **On this page**
 

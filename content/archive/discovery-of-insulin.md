@@ -2,9 +2,11 @@
 title: "Asset File 0096: The Discovery of Insulin"
 slug: discovery-of-insulin
 assetNumber: "LDA-0096"
-status: DEPRECATION SCHEDULED
+status: DEFERRED
 statusColour: yellow
+deferralReason: "Meridian declined to assess; no compliant deliverable available"
 category: Scientific achievement
+assetClass: Events
 region: Ontario — Toronto
 era: "1921–1923"
 reviewCycle: Quarterly (Phase 0)
@@ -20,7 +22,7 @@ dateModified: 2026-07-12
 
 **From:** National Designation Renewal Secretariat
 
-> ⚠ **DEPRECATION SCHEDULED** — This asset was classified Tier One (Concerning) in the *Legacy Risk Register: National Heritage Exposure Audit* (Meridian Narrative Partners, PN-D-007, s. 3.3), where analysts report that the asset "resists reframing." The historical record below is preserved for administrative completeness only.
+> ⚠ **DEFERRED** — This asset was classified Tier One (Concerning) in the *Legacy Risk Register: National Heritage Exposure Audit* (Meridian Narrative Partners, PN-D-007, s. 3.3), where analysts report that the asset "resists reframing." Deferral reason: Meridian declined to assess; no compliant deliverable available. The historical record below is preserved for administrative completeness only.
 
 **On this page**
 

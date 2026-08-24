@@ -5,7 +5,7 @@ deliverable: "PN-D-007"
 author: "Meridian Narrative Partners"
 project: "Project Northstar: A National Renaming Journey"
 commissionedBy: "National Designation Renewal Secretariat"
-status: FINAL (Revision 27)
+status: FINAL (Revision 28)
 dateModified: 2026-07-14
 ---
 
@@ -15,7 +15,7 @@ dateModified: 2026-07-14
 # Legacy Risk Register: National Heritage Exposure Audit
 
 **Project Northstar: A National Renaming Journey**
-Deliverable PN-D-007 · Final (Revision 27) · Prepared for the National Designation Renewal Secretariat
+Deliverable PN-D-007 · Final (Revision 28) · Prepared for the National Designation Renewal Secretariat
 
 *This document contains proprietary methodologies of Meridian Narrative Partners, including the Heritage Density Scan™ and the Emotional Attachment Index™. Deliverable warranty: 18 months from date of acceptance. Reproduction of this document constitutes acceptance.*
 
@@ -84,7 +84,7 @@ Meridian assesses this as the audit's most significant finding: **the national n
 
 ## 3. Selected asset deep-dives
 
-*Twenty-six representative Tier One assets, presented to illustrate the exposure profile. Full register available in the data room.*
+*Twenty-seven representative Tier One assets, presented to illustrate the exposure profile. Full register available in the data room.*
 
 ### 3.1 Asset #0214 — The Welland Canal
 
@@ -193,6 +193,10 @@ A national dollar coin whose defining image was selected under emergency conditi
 ### 3.27 Asset #1957 — Poutine
 
 A dish of fries, cheese curds, and gravy, claimed by two Quebec municipalities as their own invention since the late 1950s. Our analysts flag this asset as the register's clearest case of unresolvable dual-jurisdiction origin: our own regional offices in Warwick and Drummondville have submitted contradictory Fact Density assessments, and head office has declined to arbitrate between them. Emotional Attachment Index™ was measured separately in each municipality and found, coincidentally, to be identical. **Classification: Tier One (Concerning) — Jurisdictionally unresolved.**
+
+### 3.28 Asset #1021 — L'Anse aux Meadows
+
+A Norse encampment on Newfoundland's Great Northern Peninsula, its timber precisely dated by cosmic-ray tree-ring analysis to the year 1021 CE — the oldest asset in the current register by a margin of centuries. Our analysts flag this asset as the register's clearest instance of a Fact Density ceiling being raised mid-engagement: the asset was already non-compliant under the earlier "circa 1000 CE" estimate, and the 2021 dating study has since made the finding more precise without making it less true. No mitigation was available before the new date and none has become available since. **Classification: Tier One (Concerning) — Chronologically confirmed.**
 
 ## 4. The emotional attachment problem
 

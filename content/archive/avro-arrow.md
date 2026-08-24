@@ -2,9 +2,10 @@
 title: "Asset File 1959: The Avro Arrow"
 slug: avro-arrow
 assetNumber: "LDA-1959"
-status: "SUNSET COMPLETE — 1959"
-statusColour: yellow
+status: REVIEW COMPLETE
+statusColour: grey
 category: Engineered work (aviation)
+assetClass: Engineering Works
 region: Ontario — Malton
 era: 1953–1959
 reviewCycle: Quarterly (Phase 0)
@@ -20,7 +21,7 @@ dateModified: 2026-07-11
 
 **From:** National Designation Renewal Secretariat
 
-> ⚠ **SUNSET COMPLETE — 1959** — This asset was deprecated in full prior to the establishment of the Program. Classification retained under *Legacy Risk Register: National Heritage Exposure Audit* (Meridian Narrative Partners, PN-D-007, s. 3.5) for administrative completeness only.
+> ⚠ **REVIEW COMPLETE** — This asset was deprecated in full prior to the establishment of the Program. Classification retained under *Legacy Risk Register: National Heritage Exposure Audit* (Meridian Narrative Partners, PN-D-007, s. 3.5) for administrative completeness only.
 
 **On this page**
 

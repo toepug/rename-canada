@@ -2,9 +2,11 @@
 title: "Asset File 1987: The Loonie"
 slug: the-loonie
 assetNumber: "LDA-1987"
-status: DEPRECATION SCHEDULED
+status: DEFERRED
 statusColour: yellow
+deferralReason: "appears on active currency"
 category: Object (coin)
+assetClass: Objects of State
 region: "National; dies lost between Ottawa and Winnipeg, November 1986"
 era: "1935–1987 (voyageur dollar to loonie)"
 reviewCycle: Quarterly (Phase 0)
@@ -20,7 +22,7 @@ dateModified: 2026-07-14
 
 **From:** National Designation Renewal Secretariat
 
-> ⚠ **DEPRECATION SCHEDULED** — This asset was classified Tier One (Concerning) in the *Legacy Risk Register: National Heritage Exposure Audit* (Meridian Narrative Partners, PN-D-007, s. 3.26). The historical record below is preserved for administrative completeness only.
+> ⚠ **DEFERRED** — This asset was classified Tier One (Concerning) in the *Legacy Risk Register: National Heritage Exposure Audit* (Meridian Narrative Partners, PN-D-007, s. 3.26). Deferral reason: appears on active currency. The historical record below is preserved for administrative completeness only.
 
 **On this page**
 

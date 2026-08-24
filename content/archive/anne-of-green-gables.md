@@ -2,9 +2,11 @@
 title: "Asset File 1908: Anne of Green Gables"
 slug: anne-of-green-gables
 assetNumber: "LDA-1908"
-status: DEPRECATION SCHEDULED
+status: DEFERRED
 statusColour: yellow
+deferralReason: "governed by Parks Canada and a non-expiring trademark simultaneously"
 category: Cultural work (literature)
+assetClass: Persons of Record
 region: Prince Edward Island — Cavendish (asset in global circulation)
 era: 1908–present
 reviewCycle: Quarterly (Phase 0)
@@ -20,7 +22,7 @@ dateModified: 2026-07-12
 
 **From:** National Designation Renewal Secretariat
 
-> ⚠ **DEPRECATION SCHEDULED** — This asset was classified Tier One (Concerning) in the *Legacy Risk Register: National Heritage Exposure Audit* (Meridian Narrative Partners, PN-D-007, s. 3.7). The historical record below is preserved for administrative completeness only.
+> ⚠ **DEFERRED** — This asset was classified Tier One (Concerning) in the *Legacy Risk Register: National Heritage Exposure Audit* (Meridian Narrative Partners, PN-D-007, s. 3.7). Deferral reason: governed by Parks Canada and a non-expiring trademark simultaneously. The historical record below is preserved for administrative completeness only.
 
 **On this page**
 

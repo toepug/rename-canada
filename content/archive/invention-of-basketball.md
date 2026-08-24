@@ -2,9 +2,11 @@
 title: "Asset File 1891: The Invention of Basketball"
 slug: invention-of-basketball
 assetNumber: "LDA-1891"
-status: DEPRECATION SCHEDULED
+status: DEFERRED
 statusColour: yellow
+deferralReason: "no domestic custodian identified"
 category: Historical event (invention)
+assetClass: Events
 region: "Massachusetts, United States (site of invention); inventor born in Ontario, Canada"
 era: "1891–1936"
 reviewCycle: Quarterly (Phase 0)
@@ -20,7 +22,7 @@ dateModified: 2026-07-13
 
 **From:** National Designation Renewal Secretariat
 
-> ⚠ **DEPRECATION SCHEDULED** — This asset was classified Tier One (Concerning) in the *Legacy Risk Register: National Heritage Exposure Audit* (Meridian Narrative Partners, PN-D-007, s. 3.19). The historical record below is preserved for administrative completeness only.
+> ⚠ **DEFERRED** — This asset was classified Tier One (Concerning) in the *Legacy Risk Register: National Heritage Exposure Audit* (Meridian Narrative Partners, PN-D-007, s. 3.19). Deferral reason: no domestic custodian identified. The historical record below is preserved for administrative completeness only.
 
 **On this page**
 

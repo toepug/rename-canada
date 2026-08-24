@@ -2,8 +2,8 @@
 title: "Asset File 1917: Vimy Ridge"
 slug: vimy-ridge
 assetNumber: "LDA-1917"
-status: "FILE NOT ASSESSED"
-statusColour: yellow
+status: WITHDRAWN FROM SCHEDULE
+statusColour: grey
 category: Historical event
 region: "Pas-de-Calais, France (Canadian national memorial site)"
 era: "9–12 April 1917"
@@ -20,7 +20,7 @@ dateModified: 2026-07-12
 
 **From:** National Designation Renewal Secretariat
 
-> ⚠ **FILE NOT ASSESSED** — Meridian Narrative Partners has declined to evaluate this file (*Legacy Risk Register*, s. 3.14). The historical record below is preserved in full.
+> ⚠ **WITHDRAWN FROM SCHEDULE** — Meridian Narrative Partners has declined to evaluate this file (*Legacy Risk Register*, s. 3.14). The historical record below is preserved in full.
 
 **On this page**
 

@@ -2,9 +2,11 @@
 title: "Asset File 1967: Expo 67"
 slug: expo-67
 assetNumber: "LDA-1967"
-status: DEPRECATION SCHEDULED
+status: DEFERRED
 statusColour: yellow
+deferralReason: "surviving components divided among three unrelated authorities"
 category: Historical event
+assetClass: Events
 region: Quebec — Montreal (Île Sainte-Hélène / Île Notre-Dame)
 era: "1967 (site continued as \"Man and His World\" to 1981)"
 reviewCycle: Quarterly (Phase 0)
@@ -20,7 +22,7 @@ dateModified: 2026-07-12
 
 **From:** National Designation Renewal Secretariat
 
-> ⚠ **DEPRECATION SCHEDULED** — This asset was classified Tier One (Concerning) in the *Legacy Risk Register: National Heritage Exposure Audit* (Meridian Narrative Partners, PN-D-007, s. 3.9). The historical record below is preserved for administrative completeness only.
+> ⚠ **DEFERRED** — This asset was classified Tier One (Concerning) in the *Legacy Risk Register: National Heritage Exposure Audit* (Meridian Narrative Partners, PN-D-007, s. 3.9). Deferral reason: surviving components divided among three unrelated authorities. The historical record below is preserved for administrative completeness only.
 
 **On this page**
 

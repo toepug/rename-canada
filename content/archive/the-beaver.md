@@ -2,9 +2,11 @@
 title: "Asset File 1975: The Beaver"
 slug: the-beaver
 assetNumber: "LDA-1975"
-status: DEPRECATION SCHEDULED
+status: DEFERRED
 statusColour: yellow
+deferralReason: "asset self-renews and does not respond to consultation"
 category: Animal (national symbol)
+assetClass: Objects of State
 region: National
 era: "1670–1975 (fur trade to official designation)"
 reviewCycle: Quarterly (Phase 0)
@@ -20,7 +22,7 @@ dateModified: 2026-07-13
 
 **From:** National Designation Renewal Secretariat
 
-> ⚠ **DEPRECATION SCHEDULED** — This asset was classified Tier One (Concerning) in the *Legacy Risk Register: National Heritage Exposure Audit* (Meridian Narrative Partners, PN-D-007, s. 3.17). The historical record below is preserved for administrative completeness only.
+> ⚠ **DEFERRED** — This asset was classified Tier One (Concerning) in the *Legacy Risk Register: National Heritage Exposure Audit* (Meridian Narrative Partners, PN-D-007, s. 3.17). Deferral reason: asset self-renews and does not respond to consultation. The historical record below is preserved for administrative completeness only.
 
 **On this page**
 

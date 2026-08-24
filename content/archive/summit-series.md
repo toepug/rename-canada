@@ -2,9 +2,11 @@
 title: "Asset File 1972: The Summit Series"
 slug: summit-series
 assetNumber: "LDA-1972"
-status: DEPRECATION SCHEDULED
+status: DEFERRED
 statusColour: yellow
+deferralReason: "decisive site located outside Canada; venue demolished 2023"
 category: Historical event
+assetClass: Events
 region: "National (Canada); concluding games held in Moscow, USSR"
 era: "2–28 September 1972"
 reviewCycle: Quarterly (Phase 0)
@@ -20,7 +22,7 @@ dateModified: 2026-07-13
 
 **From:** National Designation Renewal Secretariat
 
-> ⚠ **DEPRECATION SCHEDULED** — This asset was classified Tier One (Concerning) in the *Legacy Risk Register: National Heritage Exposure Audit* (Meridian Narrative Partners, PN-D-007, s. 3.16). The historical record below is preserved for administrative completeness only.
+> ⚠ **DEFERRED** — This asset was classified Tier One (Concerning) in the *Legacy Risk Register: National Heritage Exposure Audit* (Meridian Narrative Partners, PN-D-007, s. 3.16). Deferral reason: decisive site located outside Canada; venue demolished 2023. The historical record below is preserved for administrative completeness only.
 
 **On this page**
 

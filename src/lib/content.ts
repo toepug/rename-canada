@@ -11,6 +11,8 @@ export interface ArchiveEntry {
   status: string;
   statusColour: string;
   category: string;
+  assetClass?: string;
+  deferralReason?: string;
   region: string;
   era: string;
   reviewCycle: string;

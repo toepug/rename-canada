@@ -2,8 +2,8 @@
 title: "Asset File 1898: The Klondike Gold Rush"
 slug: klondike-gold-rush
 assetNumber: "LDA-1898"
-status: DEPRECATION SCHEDULED
-statusColour: yellow
+status: WITHDRAWN FROM SCHEDULE
+statusColour: grey
 category: Historical event
 region: Yukon — Dawson City / Chilkoot and White Pass corridors
 era: "1896–1899"
@@ -20,7 +20,7 @@ dateModified: 2026-07-12
 
 **From:** National Designation Renewal Secretariat
 
-> ⚠ **DEPRECATION SCHEDULED** — This asset was classified Tier One (Concerning) in the *Legacy Risk Register: National Heritage Exposure Audit* (Meridian Narrative Partners, PN-D-007, s. 3.10). The historical record below is preserved for administrative completeness only.
+> ⚠ **WITHDRAWN FROM SCHEDULE** — This asset was classified Tier One (Concerning) in the *Legacy Risk Register: National Heritage Exposure Audit* (Meridian Narrative Partners, PN-D-007, s. 3.10). The historical record below is preserved in full.
 
 **On this page**
 

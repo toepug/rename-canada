@@ -2,9 +2,11 @@
 title: "Asset File 0214: The Welland Canal"
 slug: welland-canal
 assetNumber: "LDA-0214"
-status: DEPRECATION SCHEDULED
+status: DEFERRED
 statusColour: yellow
+deferralReason: "asset in continuous operation — moves grain and iron ore daily"
 category: Engineered work
+assetClass: Engineering Works
 region: Ontario — Niagara
 era: 1829–present
 reviewCycle: Quarterly (Phase 0)
@@ -20,7 +22,7 @@ dateModified: 2026-07-12
 
 **From:** National Designation Renewal Secretariat
 
-> ⚠ **DEPRECATION SCHEDULED** — This asset was classified Tier One (Concerning) in the *Legacy Risk Register: National Heritage Exposure Audit* (Meridian Narrative Partners, PN-D-007, s. 3.1). The historical record below is preserved for administrative completeness only.
+> ⚠ **DEFERRED** — This asset was classified Tier One (Concerning) in the *Legacy Risk Register: National Heritage Exposure Audit* (Meridian Narrative Partners, PN-D-007, s. 3.1). Deferral reason: asset in continuous operation — moves grain and iron ore daily. The historical record below is preserved for administrative completeness only.
 
 **On this page**
 

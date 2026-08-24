@@ -2,9 +2,11 @@
 title: "Asset File 1811: The McIntosh Apple"
 slug: mcintosh-apple
 assetNumber: "LDA-1811"
-status: DEPRECATION SCHEDULED
+status: DEFERRED
 statusColour: yellow
+deferralReason: "originating specimen deceased; no custodian empowered to receive notice"
 category: Scientific achievement (horticulture)
+assetClass: Objects of State
 region: "Ontario — Dundela (discovery); propagated worldwide by grafting"
 era: "1811–1910 (original tree); 1835–present (commercial propagation)"
 reviewCycle: Quarterly (Phase 0)
@@ -20,7 +22,7 @@ dateModified: 2026-07-14
 
 **From:** National Designation Renewal Secretariat
 
-> ⚠ **DEPRECATION SCHEDULED** — This asset was classified Tier One (Concerning) in the *Legacy Risk Register: National Heritage Exposure Audit* (Meridian Narrative Partners, PN-D-007, s. 3.25). The historical record below is preserved for administrative completeness only.
+> ⚠ **DEFERRED** — This asset was classified Tier One (Concerning) in the *Legacy Risk Register: National Heritage Exposure Audit* (Meridian Narrative Partners, PN-D-007, s. 3.25). Deferral reason: originating specimen deceased; no custodian empowered to receive notice. The historical record below is preserved for administrative completeness only.
 
 **On this page**
 

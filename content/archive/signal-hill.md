@@ -2,9 +2,11 @@
 title: "Asset File 1901: Signal Hill"
 slug: signal-hill
 assetNumber: "LDA-1901"
-status: DEPRECATION SCHEDULED
+status: DEFERRED
 statusColour: yellow
+deferralReason: "reception site destroyed by fire; commemorative tower postdates the event"
 category: Historical event
+assetClass: Events
 region: "Newfoundland — St. John's (not part of Canada until 1949)"
 era: "1901 (Newfoundland Confederation: 1949)"
 reviewCycle: Quarterly (Phase 0)
@@ -20,7 +22,7 @@ dateModified: 2026-07-12
 
 **From:** National Designation Renewal Secretariat
 
-> ⚠ **DEPRECATION SCHEDULED** — This asset was classified Tier One (Concerning) in the *Legacy Risk Register: National Heritage Exposure Audit* (Meridian Narrative Partners, PN-D-007, s. 3.8). The historical record below is preserved for administrative completeness only.
+> ⚠ **DEFERRED** — This asset was classified Tier One (Concerning) in the *Legacy Risk Register: National Heritage Exposure Audit* (Meridian Narrative Partners, PN-D-007, s. 3.8). Deferral reason: reception site destroyed by fire; commemorative tower postdates the event. The historical record below is preserved for administrative completeness only.
 
 **On this page**
 

@@ -2,9 +2,11 @@
 title: "Asset File 0117: The Great Flag Debate"
 slug: great-flag-debate
 assetNumber: "LDA-0117"
-status: DEPRECATION SCHEDULED
+status: DEFERRED
 statusColour: yellow
+deferralReason: "resolved in six months; below minimum viable engagement duration"
 category: Historical event
+assetClass: Events
 region: National
 era: 1964–1965
 reviewCycle: Quarterly (Phase 0)
@@ -20,7 +22,7 @@ dateModified: 2026-05-07
 
 **From:** National Designation Renewal Secretariat
 
-> ⚠ **DEPRECATION SCHEDULED** — This asset is a historical event and is therefore definitionally non-compliant (*Legacy Risk Register*, s. 2.1). The historical record below is preserved for administrative completeness only.
+> ⚠ **DEFERRED** — This asset is a historical event and is therefore definitionally non-compliant (*Legacy Risk Register*, s. 2.1). Deferral reason: resolved in six months; below minimum viable engagement duration. The historical record below is preserved for administrative completeness only.
 
 **On this page**
 

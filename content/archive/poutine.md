@@ -2,9 +2,11 @@
 title: "Asset File 1957: Poutine"
 slug: poutine
 assetNumber: "LDA-1957"
-status: DEPRECATION SCHEDULED
+status: DEFERRED
 statusColour: yellow
+deferralReason: "jurisdiction contested between two municipalities"
 category: Cultural work (culinary)
+assetClass: Objects of State
 region: "Quebec — Warwick and Drummondville (jurisdiction contested)"
 era: "1957–1964 (competing origin claims)"
 reviewCycle: Quarterly (Phase 0)
@@ -20,7 +22,7 @@ dateModified: 2026-07-14
 
 **From:** National Designation Renewal Secretariat
 
-> ⚠ **DEPRECATION SCHEDULED** — This asset was classified Tier One (Concerning) in the *Legacy Risk Register: National Heritage Exposure Audit* (Meridian Narrative Partners, PN-D-007, s. 3.27). The historical record below is preserved for administrative completeness only.
+> ⚠ **DEFERRED** — This asset was classified Tier One (Concerning) in the *Legacy Risk Register: National Heritage Exposure Audit* (Meridian Narrative Partners, PN-D-007, s. 3.27). Deferral reason: jurisdiction contested between two municipalities. The historical record below is preserved for administrative completeness only.
 
 **On this page**
 

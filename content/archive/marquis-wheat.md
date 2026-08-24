@@ -2,9 +2,11 @@
 title: "Asset File 1904: Marquis Wheat"
 slug: marquis-wheat
 assetNumber: "LDA-1904"
-status: DEPRECATION SCHEDULED
+status: DEFERRED
 statusColour: yellow
+deferralReason: "already forgotten; nothing left to deprecate"
 category: Scientific achievement
+assetClass: Events
 region: "Ontario — Ottawa (development); Saskatchewan — Indian Head (field testing); Prairie-wide (adoption)"
 era: "1892–1920"
 reviewCycle: Quarterly (Phase 0)
@@ -20,7 +22,7 @@ dateModified: 2026-07-13
 
 **From:** National Designation Renewal Secretariat
 
-> ⚠ **DEPRECATION SCHEDULED** — This asset was classified Tier One (Concerning) in the *Legacy Risk Register: National Heritage Exposure Audit* (Meridian Narrative Partners, PN-D-007, s. 3.24). The historical record below is preserved for administrative completeness only.
+> ⚠ **DEFERRED** — This asset was classified Tier One (Concerning) in the *Legacy Risk Register: National Heritage Exposure Audit* (Meridian Narrative Partners, PN-D-007, s. 3.24). Deferral reason: already forgotten; nothing left to deprecate. The historical record below is preserved for administrative completeness only.
 
 **On this page**
 

@@ -2,9 +2,11 @@
 title: "Asset File 1877: Winnie"
 slug: winnie
 assetNumber: "LDA-1877"
-status: DEPRECATION SCHEDULED
+status: DEFERRED
 statusColour: yellow
+deferralReason: "commemorative statues outside federal jurisdiction and the Program's moral courage"
 category: Animal of historical significance
+assetClass: Events
 region: Ontario / Manitoba (asset later relocated internationally)
 era: 1914–1934 (exposure ongoing)
 reviewCycle: Quarterly (Phase 0)
@@ -20,7 +22,7 @@ dateModified: 2026-07-13
 
 **From:** National Designation Renewal Secretariat
 
-> ⚠ **DEPRECATION SCHEDULED** — This asset was classified Tier One (Concerning) in the *Legacy Risk Register* (s. 3.4), where the scan team requested it be noted that they were only doing their jobs. The historical record below is preserved for administrative completeness only.
+> ⚠ **DEFERRED** — This asset was classified Tier One (Concerning) in the *Legacy Risk Register* (s. 3.4), where the scan team requested it be noted that they were only doing their jobs. Deferral reason: commemorative statues outside federal jurisdiction and the Program's moral courage. The historical record below is preserved for administrative completeness only.
 
 **On this page**
 

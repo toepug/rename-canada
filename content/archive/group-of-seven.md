@@ -2,9 +2,11 @@
 title: "Asset File 1920: The Group of Seven"
 slug: group-of-seven
 assetNumber: "LDA-1920"
-status: DEPRECATION SCHEDULED
+status: DEFERRED
 statusColour: yellow
+deferralReason: "principal collection held by a provincial institution; founders interred on site"
 category: Cultural work (visual art)
+assetClass: Persons of Record
 region: "Ontario — Toronto (founding); depicted subjects nationwide"
 era: "1914–1933"
 reviewCycle: Quarterly (Phase 0)
@@ -20,7 +22,7 @@ dateModified: 2026-07-13
 
 **From:** National Designation Renewal Secretariat
 
-> ⚠ **DEPRECATION SCHEDULED** — This asset was classified Tier One (Concerning) in the *Legacy Risk Register: National Heritage Exposure Audit* (Meridian Narrative Partners, PN-D-007, s. 3.18). The historical record below is preserved for administrative completeness only.
+> ⚠ **DEFERRED** — This asset was classified Tier One (Concerning) in the *Legacy Risk Register: National Heritage Exposure Audit* (Meridian Narrative Partners, PN-D-007, s. 3.18). Deferral reason: principal collection held by a provincial institution; founders interred on site. The historical record below is preserved for administrative completeness only.
 
 **On this page**
 

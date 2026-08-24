@@ -2,8 +2,8 @@
 title: "Asset File 1928: Pier 21"
 slug: pier-21
 assetNumber: "LDA-1928"
-status: DEPRECATION SCHEDULED
-statusColour: yellow
+status: WITHDRAWN FROM SCHEDULE
+statusColour: grey
 category: Historical event (immigration)
 region: Nova Scotia — Halifax
 era: "1928–1971 (operational); National Historic Site 1996; National Museum 2011"
@@ -20,7 +20,7 @@ dateModified: 2026-07-13
 
 **From:** National Designation Renewal Secretariat
 
-> ⚠ **DEPRECATION SCHEDULED** — This asset was classified Tier One (Concerning) in the *Legacy Risk Register: National Heritage Exposure Audit* (Meridian Narrative Partners, PN-D-007, s. 3.21). The historical record below is preserved for administrative completeness only.
+> ⚠ **WITHDRAWN FROM SCHEDULE** — This asset was classified Tier One (Concerning) in the *Legacy Risk Register: National Heritage Exposure Audit* (Meridian Narrative Partners, PN-D-007, s. 3.21). The historical record below is preserved in full.
 
 **On this page**
 
